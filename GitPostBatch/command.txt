@@ -1,0 +1,1 @@
+python gitpostbatch.py "C:\Users\evasa\Documents\WP_PLUGINS" "https://github.com/CodeCraftsman-Jr/WP_PLUGINS.git"

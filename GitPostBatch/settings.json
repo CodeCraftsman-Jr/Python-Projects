@@ -1,0 +1,12 @@
+{
+    "theme": "light",
+    "source_dir": "C:/Users/evasa/Documents/WP_PLUGINS/Utilities",
+    "target_dir": "C:/Users/evasa/Documents/WP_PLUGINS",
+    "api_services": {
+        "gemini": true,
+        "openai": false,
+        "cohere": true,
+        "anthropic": true,
+        "google_search": false
+    }
+}

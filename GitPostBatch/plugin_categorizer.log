@@ -1,0 +1,200 @@
+2025-02-23 19:53:18,213 - ERROR - [plugin_categorizer_gui.py:643] - Error saving API keys: [Errno 2] No such file or directory: 'config.py'
+2025-02-23 19:53:31,216 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:53:31,220 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.448857 seconds
+2025-02-23 19:53:31,970 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:53:31,973 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.803360 seconds
+2025-02-23 19:53:33,075 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:53:33,084 - ERROR - [plugin_categorizer_gui.py:764] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:53:33,085 - ERROR - [plugin_categorizer_gui.py:693] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:53:35,828 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-02-23 19:53:36,666 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:53:36,669 - ERROR - [plugin_categorizer_gui.py:764] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:53:36,669 - ERROR - [plugin_categorizer_gui.py:693] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:54:03,222 - ERROR - [plugin_categorizer_gui.py:643] - Error saving API keys: [Errno 2] No such file or directory: 'config.py'
+2025-02-23 19:54:09,520 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:54:09,520 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.382848 seconds
+2025-02-23 19:54:10,204 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:54:10,207 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.799807 seconds
+2025-02-23 19:54:11,313 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:54:11,315 - ERROR - [plugin_categorizer_gui.py:764] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:54:11,317 - ERROR - [plugin_categorizer_gui.py:693] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:54:12,396 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-02-23 19:54:13,260 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:54:13,260 - ERROR - [plugin_categorizer_gui.py:764] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:54:13,260 - ERROR - [plugin_categorizer_gui.py:693] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:57:40,252 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for gemini: API key is empty
+2025-02-23 19:57:40,253 - ERROR - [plugin_categorizer_gui.py:767] - Error testing gemini: API key is empty
+2025-02-23 19:57:41,261 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: API key is empty
+2025-02-23 19:57:41,261 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: API key is empty
+2025-02-23 19:57:42,262 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for cohere: API key is empty
+2025-02-23 19:57:42,263 - ERROR - [plugin_categorizer_gui.py:767] - Error testing cohere: API key is empty
+2025-02-23 19:57:43,266 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: API key is empty
+2025-02-23 19:57:43,267 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: API key is empty
+2025-02-23 19:58:23,910 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:23,911 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.483551 seconds
+2025-02-23 19:58:24,702 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:24,705 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.802952 seconds
+2025-02-23 19:58:25,809 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:25,813 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:25,815 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:27,604 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 401 Unauthorized"
+2025-02-23 19:58:27,607 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:58:27,608 - ERROR - [plugin_categorizer_gui.py:767] - Error testing cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:58:29,511 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:58:29,514 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:58:29,515 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:58:39,222 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:39,224 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.400144 seconds
+2025-02-23 19:58:39,938 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:39,940 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.822581 seconds
+2025-02-23 19:58:41,067 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:41,070 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:41,071 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:42,846 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 401 Unauthorized"
+2025-02-23 19:58:42,848 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:58:42,849 - ERROR - [plugin_categorizer_gui.py:767] - Error testing cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:58:44,825 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:58:44,828 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:58:44,829 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:58:52,963 - ERROR - [plugin_categorizer_gui.py:676] - Gemini test failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 19:58:52,963 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for gemini: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 19:58:52,964 - ERROR - [plugin_categorizer_gui.py:767] - Error testing gemini: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 19:58:54,863 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:54,864 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.484501 seconds
+2025-02-23 19:58:55,646 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:55,646 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.858598 seconds
+2025-02-23 19:58:56,804 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:58:56,805 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:56,806 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:58:58,574 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 401 Unauthorized"
+2025-02-23 19:58:58,576 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:58:58,578 - ERROR - [plugin_categorizer_gui.py:767] - Error testing cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:59:00,419 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:59:00,421 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:59:00,423 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:59:10,572 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:10,573 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.418983 seconds
+2025-02-23 19:59:11,293 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:11,296 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.975402 seconds
+2025-02-23 19:59:12,573 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:12,575 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:59:12,578 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:59:14,613 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 401 Unauthorized"
+2025-02-23 19:59:14,615 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:59:14,615 - ERROR - [plugin_categorizer_gui.py:767] - Error testing cohere: status_code: 401, body: {'message': 'invalid api token'}
+2025-02-23 19:59:16,450 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:59:16,454 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:59:16,456 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:59:49,257 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:49,258 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.388290 seconds
+2025-02-23 19:59:49,947 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:49,950 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.811856 seconds
+2025-02-23 19:59:51,064 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 19:59:51,066 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:59:51,068 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 19:59:53,381 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-02-23 19:59:55,373 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 19:59:55,376 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 19:59:55,378 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 20:00:10,882 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 20:00:10,885 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.460250 seconds
+2025-02-23 20:00:11,639 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 20:00:11,641 - INFO - [_base_client.py:1099] - Retrying request to /chat/completions in 0.831476 seconds
+2025-02-23 20:00:12,772 - INFO - [_client.py:1025] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-23 20:00:12,774 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 20:00:12,775 - ERROR - [plugin_categorizer_gui.py:767] - Error testing openai: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-02-23 20:00:27,776 - INFO - [_client.py:1025] - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-02-23 20:00:29,573 - INFO - [_client.py:1025] - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2025-02-23 20:00:29,577 - ERROR - [plugin_categorizer_gui.py:716] - API test failed for anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 20:00:29,579 - ERROR - [plugin_categorizer_gui.py:767] - Error testing anthropic: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-2'}}
+2025-02-23 20:06:28,703 - WARNING - [plugin_categorizer_gui.py:1285] - Failed to reset Gemini session: module 'google.generativeai' has no attribute 'reset_session'
+2025-02-23 20:06:45,514 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for openai: name 'openai' is not defined
+2025-02-23 20:06:45,517 - ERROR - [plugin_categorizer_gui.py:782] - Error testing openai: name 'openai' is not defined
+2025-02-23 20:06:46,525 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for cohere: name 'cohere' is not defined
+2025-02-23 20:06:46,526 - ERROR - [plugin_categorizer_gui.py:782] - Error testing cohere: name 'cohere' is not defined
+2025-02-23 20:06:47,543 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for anthropic: name 'Anthropic' is not defined
+2025-02-23 20:06:47,544 - ERROR - [plugin_categorizer_gui.py:782] - Error testing anthropic: name 'Anthropic' is not defined
+2025-02-23 20:07:01,048 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for openai: name 'openai' is not defined
+2025-02-23 20:07:01,050 - ERROR - [plugin_categorizer_gui.py:782] - Error testing openai: name 'openai' is not defined
+2025-02-23 20:07:02,060 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for cohere: name 'cohere' is not defined
+2025-02-23 20:07:02,061 - ERROR - [plugin_categorizer_gui.py:782] - Error testing cohere: name 'cohere' is not defined
+2025-02-23 20:07:03,063 - ERROR - [plugin_categorizer_gui.py:731] - API test failed for anthropic: name 'Anthropic' is not defined
+2025-02-23 20:07:03,065 - ERROR - [plugin_categorizer_gui.py:782] - Error testing anthropic: name 'Anthropic' is not defined
+2025-02-23 20:08:00,007 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cont'
+2025-02-23 20:08:00,007 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:01,126 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:01,126 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:03,586 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:03,586 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:05,888 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:05,889 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:05,894 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\screenshot-1.png: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2025-02-23 20:08:05,894 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\screenshot-1.png: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2025-02-23 20:08:05,897 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\screenshot-2.png: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2025-02-23 20:08:05,897 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\screenshot-2.png: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2025-02-23 20:08:08,205 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:08,205 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:10,675 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:10,676 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:12,105 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cont'
+2025-02-23 20:08:12,106 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:14,406 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:14,406 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:16,688 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:16,688 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:19,851 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:19,852 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:19,860 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-af.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:19,860 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-af.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:22,140 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:22,148 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-bg_BG.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:22,148 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-bg_BG.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:24,448 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: '**Ca'
+2025-02-23 20:08:24,448 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:24,459 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-cs_CZ.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:24,461 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-cs_CZ.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:26,731 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: '**Ca'
+2025-02-23 20:08:26,733 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:26,743 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-da_DK.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:26,744 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-da_DK.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:29,019 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cont'
+2025-02-23 20:08:29,019 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:29,028 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-de_DE.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:29,028 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-de_DE.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:31,221 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cont'
+2025-02-23 20:08:31,221 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:31,230 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-el.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:31,231 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-el.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:34,144 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:34,144 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:34,153 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-en_GB.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:34,154 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-en_GB.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:36,402 - ERROR - [plugin_categorizer_gui.py:1056] - Error with gemini: could not convert string to float: 'Cate'
+2025-02-23 20:08:36,402 - ERROR - [plugin_categorizer_gui.py:1083] - Error in web search: search() got an unexpected keyword argument 'num_results'
+2025-02-23 20:08:36,411 - ERROR - [plugin_categorizer_gui.py:980] - Error reading file C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-es_ES.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:36,411 - ERROR - [plugin_categorizer_gui.py:959] - Error processing C:/Users/evasa/Documents/WP_PLUGINS/Uncategorized\advanced-post-manager_1_1_1_1_1_1_1_1\lang\tribe-apm-es_ES.mo: 'utf-8' codec can't decode byte 0xde in position 0: invalid continuation byte
+2025-02-23 20:08:36,923 - WARNING - [plugin_categorizer_gui.py:1304] - Failed to reset Gemini session: module 'google.generativeai' has no attribute 'reset_session'

@@ -1,0 +1,1162 @@
+2025-02-24 01:16:29,096 - Selected folder: C:/Users/evasa/Documents/WP_PLUGINS
+2025-02-24 01:16:33,993 - Processing folder: 'Aitch-Ref' Would Be Considered A Proofreading Plugin For Wordpress
+2025-02-24 01:16:34,001 - Renamed folder to: 'AitchRef' Would Be Considered A Proofreading Plugin For Wordpress
+2025-02-24 01:16:34,007 - Processing folder: - Inquiries
+2025-02-24 01:16:34,012 - Renamed folder to: Inquiries
+2025-02-24 01:16:34,023 - Processing folder: - Intellectual Property
+2025-02-24 01:16:34,028 - Renamed folder to: Intellectual Property
+2025-02-24 01:16:34,042 - Processing folder: - International
+2025-02-24 01:16:34,049 - Renamed folder to: International
+2025-02-24 01:16:34,070 - Processing folder: - Jobs
+2025-02-24 01:16:34,077 - Renamed folder to: Jobs
+2025-02-24 01:16:34,079 - Processing folder: - jQuery
+2025-02-24 01:16:34,089 - Renamed folder to: jQuery
+2025-02-24 01:16:34,090 - Processing folder: - Knowledge Management
+2025-02-24 01:16:34,099 - Renamed folder to: Knowledge Management
+2025-02-24 01:16:34,100 - Processing folder: - Language
+2025-02-24 01:16:34,106 - Target folder 'Language' exists. Merging contents...
+2025-02-24 01:16:34,235 - Copied file: ceske-komentare.php
+2025-02-24 01:16:34,262 - Copied file: LICENSE.txt
+2025-02-24 01:16:34,399 - Copied file: nastaveni.php
+2025-02-24 01:16:34,416 - Copied file: README.txt
+2025-02-24 01:16:34,418 - Merged and removed source folder: - Language
+2025-02-24 01:16:34,422 - Processing folder: - LaTeX
+2025-02-24 01:16:34,423 - Target folder 'LaTeX' exists. Merging contents...
+2025-02-24 01:16:34,439 - Copied file: admin.css
+2025-02-24 01:16:34,451 - Copied file: datepicker.css
+2025-02-24 01:16:34,461 - Copied file: stageshow-admin.css
+2025-02-24 01:16:34,473 - Copied file: arrowDown_down.gif
+2025-02-24 01:16:34,480 - Copied file: arrowDown_normal.gif
+2025-02-24 01:16:34,490 - Copied file: arrowDown_over.gif
+2025-02-24 01:16:34,498 - Copied file: arrowLeft_down.gif
+2025-02-24 01:16:34,506 - Copied file: arrowLeft_normal.gif
+2025-02-24 01:16:34,514 - Copied file: arrowLeft_over.gif
+2025-02-24 01:16:34,521 - Copied file: arrowRight_down.gif
+2025-02-24 01:16:34,528 - Copied file: arrowRight_normal.gif
+2025-02-24 01:16:34,537 - Copied file: arrowRight_over.gif
+2025-02-24 01:16:34,545 - Copied file: arrowUp_down.gif
+2025-02-24 01:16:34,554 - Copied file: arrowUp_normal.gif
+2025-02-24 01:16:34,564 - Copied file: arrowUp_over.gif
+2025-02-24 01:16:34,571 - Copied file: closeButton_down.gif
+2025-02-24 01:16:34,578 - Copied file: closeButton_normal.gif
+2025-02-24 01:16:34,587 - Copied file: closeButton_over.gif
+2025-02-24 01:16:34,594 - Copied file: closeWin_normal.gif
+2025-02-24 01:16:34,604 - Copied file: doubleArrowLeft_down.gif
+2025-02-24 01:16:34,611 - Copied file: doubleArrowLeft_normal.gif
+2025-02-24 01:16:34,619 - Copied file: doubleArrowLeft_over.gif
+2025-02-24 01:16:34,627 - Copied file: doubleArrowRight_down.gif
+2025-02-24 01:16:34,635 - Copied file: doubleArrowRight_normal.gif
+2025-02-24 01:16:34,642 - Copied file: doubleArrowRight_over.gif
+2025-02-24 01:16:34,651 - Copied file: stageshow.png
+2025-02-24 01:16:34,657 - Copied file: stageshow16colour.png
+2025-02-24 01:16:34,661 - Copied file: stageshow16grey.png
+2025-02-24 01:16:34,676 - Copied file: stageshow32colour.png
+2025-02-24 01:16:34,684 - Copied file: stageshow32grey.png
+2025-02-24 01:16:34,762 - Copied file: datetimepicker_css.js
+2025-02-24 01:16:34,791 - Copied file: stageshow-admin.js
+2025-02-24 01:16:34,816 - Copied file: stageshowlib_admin.js
+2025-02-24 01:16:34,832 - Copied file: stageshow_boxoffice.php
+2025-02-24 01:16:34,852 - Copied file: stageshow_debug.php
+2025-02-24 01:16:34,872 - Copied file: stageshow_export.php
+2025-02-24 01:16:34,955 - Copied file: stageshow_manage_overview.php
+2025-02-24 01:16:35,008 - Copied file: stageshow_manage_performances.php
+2025-02-24 01:16:35,058 - Copied file: stageshow_manage_prices.php
+2025-02-24 01:16:35,085 - Copied file: stageshow_manage_sales.php
+2025-02-24 01:16:35,104 - Copied file: stageshow_manage_settings.php
+2025-02-24 01:16:35,151 - Copied file: stageshow_manage_shows.php
+2025-02-24 01:16:35,290 - Copied file: stageshow_manage_tools.php
+2025-02-24 01:16:35,312 - Copied file: stageshow_tdt_export.php
+2025-02-24 01:16:35,320 - Copied file: banner-772x250.png
+2025-02-24 01:16:35,336 - Copied file: stageshow-calendar.css
+2025-02-24 01:16:35,346 - Copied file: stageshow-seats.css
+2025-02-24 01:16:35,356 - Copied file: stageshow.css
+2025-02-24 01:16:35,376 - Copied file: StageShowHelp.pdf
+2025-02-24 01:16:35,384 - Copied file: icon-128x128.png
+2025-02-24 01:16:35,389 - Copied file: btn_xpressCheckout.gif
+2025-02-24 01:16:35,401 - Copied file: delete.png
+2025-02-24 01:16:35,410 - Copied file: EC-button.gif
+2025-02-24 01:16:35,414 - Copied file: loading-balls.gif
+2025-02-24 01:16:35,421 - Copied file: loading-circle.gif
+2025-02-24 01:16:35,427 - Copied file: loading-segments.gif
+2025-02-24 01:16:35,441 - Copied file: stageshow_Add.gif
+2025-02-24 01:16:35,449 - Copied file: stageshow_Checkout.gif
+2025-02-24 01:16:35,457 - Copied file: stageshow_Close.gif
+2025-02-24 01:16:35,466 - Copied file: stageshow_CommandAndPay.gif
+2025-02-24 01:16:35,473 - Copied file: stageshow_Continue.gif
+2025-02-24 01:16:35,484 - Copied file: stageshow_InContext.gif
+2025-02-24 01:16:35,491 - Copied file: stageshow_Remove.gif
+2025-02-24 01:16:35,500 - Copied file: stageshow_Reserve.gif
+2025-02-24 01:16:35,510 - Copied file: stageshow_SelectPerformance.gif
+2025-02-24 01:16:35,519 - Copied file: stageshow_SelectSeats.gif
+2025-02-24 01:16:35,526 - Copied file: stageshow_SelectShow.gif
+2025-02-24 01:16:35,535 - Copied file: stageshow_ShowAvailable.gif
+2025-02-24 01:16:35,599 - Copied file: stageshowlib_admin.php
+2025-02-24 01:16:35,619 - Copied file: stageshowlib_barcodebase.php
+2025-02-24 01:16:35,646 - Copied file: stageshowlib_calendar.php
+2025-02-24 01:16:35,687 - Copied file: stageshowlib_dbase_api.php
+2025-02-24 01:16:35,724 - Copied file: stageshowlib_dbase_base.php
+2025-02-24 01:16:35,748 - Copied file: stageshowlib_debug.php
+2025-02-24 01:16:35,781 - Copied file: stageshowlib_email_api.php
+2025-02-24 01:16:35,816 - Copied file: stageshowlib_export.php
+2025-02-24 01:16:35,850 - Copied file: stageshowlib_gatewaybase.php
+2025-02-24 01:16:35,909 - Copied file: stageshowlib_gatewaysalesadmin.php
+2025-02-24 01:16:35,942 - Copied file: stageshowlib_gatewaysimulator.php
+2025-02-24 01:16:35,972 - Copied file: stageshowlib_gateway_callback.php
+2025-02-24 01:16:35,997 - Copied file: stageshowlib_gateway_settings.php
+2025-02-24 01:16:36,022 - Copied file: stageshowlib_httpio.php
+2025-02-24 01:16:36,045 - Copied file: stageshowlib_jquery_trolley.php
+2025-02-24 01:16:36,067 - Copied file: stageshowlib_logaccess.php
+2025-02-24 01:16:36,097 - Copied file: stageshowlib_logfile.php
+2025-02-24 01:16:36,119 - Copied file: stageshowlib_nonce.php
+2025-02-24 01:16:36,151 - Copied file: stageshowlib_nowp_dbase.php
+2025-02-24 01:16:36,182 - Copied file: stageshowlib_nowp_funcs.php
+2025-02-24 01:16:36,209 - Copied file: stageshowlib_paypal_buttons.php
+2025-02-24 01:16:36,233 - Copied file: stageshowlib_paypal_callback.php
+2025-02-24 01:16:36,259 - Copied file: stageshowlib_paypal_gateway.php
+2025-02-24 01:16:36,278 - Copied file: stageshowlib_salesadmin.php
+2025-02-24 01:16:36,303 - Copied file: stageshowlib_salesplugin.php
+2025-02-24 01:16:36,334 - Copied file: stageshowlib_salesplugin_trolley.php
+2025-02-24 01:16:36,361 - Copied file: stageshowlib_sales_dbase_api.php
+2025-02-24 01:16:36,399 - Copied file: stageshowlib_sales_ofx.php
+2025-02-24 01:16:36,426 - Copied file: stageshowlib_sales_trolley_dbase_api.php
+2025-02-24 01:16:36,451 - Copied file: stageshowlib_sample_dbase.php
+2025-02-24 01:16:36,661 - Copied file: stageshowlib_table.php
+2025-02-24 01:16:36,714 - Copied file: stageshowlib_test_emailsale.php
+2025-02-24 01:16:36,748 - Copied file: stageshowlib_utils.php
+2025-02-24 01:16:36,766 - Copied file: stageshow_contributors.php
+2025-02-24 01:16:36,792 - Copied file: stageshow_dbase_api.php
+2025-02-24 01:16:36,824 - Copied file: stageshow_gatewaysimulator.php
+2025-02-24 01:16:36,843 - Copied file: stageshow_jquery_email.php
+2025-02-24 01:16:36,859 - Copied file: stageshow_jquery_trolley.php
+2025-02-24 01:16:36,883 - Copied file: stageshow_jquery_validate.php
+2025-02-24 01:16:36,900 - Copied file: stageshow_nowp_defs.php
+2025-02-24 01:16:36,926 - Copied file: stageshow_sales.php
+2025-02-24 01:16:36,965 - Copied file: stageshow_sales_table.php
+2025-02-24 01:16:37,019 - Copied file: stageshow_salevalidate.php
+2025-02-24 01:16:37,045 - Copied file: stageshow_sample_dbase.php
+2025-02-24 01:16:37,068 - Copied file: stageshow_trolley_dbase_api.php
+2025-02-24 01:16:37,091 - Copied file: stageshow_trolley_sales.php
+2025-02-24 01:16:37,118 - Copied file: stageshow_validate_api.php
+2025-02-24 01:16:37,194 - Copied file: stageshow.js
+2025-02-24 01:16:37,220 - Copied file: stageshowlib_js.js
+2025-02-24 01:16:37,232 - Copied file: stageshowlib_ppexp.js
+2025-02-24 01:16:37,240 - Copied file: stageshow-en_GB.mo
+2025-02-24 01:16:37,250 - Copied file: stageshow-en_US.mo
+2025-02-24 01:16:37,257 - Copied file: stageshow-es_ES.mo
+2025-02-24 01:16:37,266 - Copied file: stageshow-fr_FR.mo
+2025-02-24 01:16:37,277 - Copied file: stageshow.pot
+2025-02-24 01:16:37,290 - Copied file: readme.txt
+2025-02-24 01:16:37,299 - Copied file: screenshot-1.png
+2025-02-24 01:16:37,307 - Copied file: screenshot-10.png
+2025-02-24 01:16:37,316 - Copied file: screenshot-11.png
+2025-02-24 01:16:37,323 - Copied file: screenshot-12.png
+2025-02-24 01:16:37,331 - Copied file: screenshot-2.png
+2025-02-24 01:16:37,341 - Copied file: screenshot-3.png
+2025-02-24 01:16:37,349 - Copied file: screenshot-4.png
+2025-02-24 01:16:37,357 - Copied file: screenshot-5.png
+2025-02-24 01:16:37,366 - Copied file: screenshot-6.png
+2025-02-24 01:16:37,375 - Copied file: screenshot-7.png
+2025-02-24 01:16:37,384 - Copied file: screenshot-8.png
+2025-02-24 01:16:37,391 - Copied file: screenshot-9.png
+2025-02-24 01:16:37,411 - Copied file: stageshow.php
+2025-02-24 01:16:37,428 - Copied file: stageshow_defs.php
+2025-02-24 01:16:37,453 - Copied file: stageshow_ipn_callback.php
+2025-02-24 01:16:37,476 - Copied file: stageshow_main.php
+2025-02-24 01:16:37,501 - Copied file: stageshow_trolley.php
+2025-02-24 01:16:37,518 - Copied file: stageshow_uninstall.php
+2025-02-24 01:16:37,540 - Copied file: stageshow_wp-config_sample.php
+2025-02-24 01:16:37,551 - Copied file: stageshow-custom.css
+2025-02-24 01:16:37,561 - Copied file: stageshow-samples.css
+2025-02-24 01:16:37,575 - Copied file: stageshow_EMail.php
+2025-02-24 01:16:37,589 - Copied file: stageshow_SaleTimeoutEMail.php
+2025-02-24 01:16:37,592 - Copied file: StageShowHeader.gif
+2025-02-24 01:16:37,604 - Copied file: StageShowLogo.jpg
+2025-02-24 01:16:37,627 - Copied file: stageshow-custom.js
+2025-02-24 01:16:37,648 - Copied file: gateway_testsettings.php
+2025-02-24 01:16:37,662 - Copied file: paypal_VerifyIPNTest.php
+2025-02-24 01:16:37,677 - Copied file: showcallstack.php
+2025-02-24 01:16:37,700 - Copied file: stageshowlib_devtestcaller.php
+2025-02-24 01:16:37,716 - Copied file: stageshowlib_testbase.php
+2025-02-24 01:16:37,742 - Copied file: stageshowlib_testsettings.php
+2025-02-24 01:16:37,769 - Copied file: stageshowlib_test_logs.php
+2025-02-24 01:16:37,791 - Copied file: stageshowlib_test_mysql.php
+2025-02-24 01:16:37,815 - Copied file: stageshowlib_test_nonce.php
+2025-02-24 01:16:37,875 - Copied file: stageshowlib_test_salestest.php
+2025-02-24 01:16:37,891 - Copied file: stageshowlib_uninstall.php
+2025-02-24 01:16:37,925 - Copied file: stageshow_testnotify.php
+2025-02-24 01:16:37,950 - Copied file: stageshow_testsettings.php
+2025-02-24 01:16:37,965 - Copied file: uninstall.php
+2025-02-24 01:16:37,994 - Merged and removed source folder: - LaTeX
+2025-02-24 01:16:37,995 - Processing folder: - Legal
+2025-02-24 01:16:37,997 - Target folder 'Legal' exists. Merging contents...
+2025-02-24 01:16:38,010 - Copied file: readme.txt
+2025-02-24 01:16:38,122 - Copied file: wp-limit-tags.php
+2025-02-24 01:16:38,124 - Merged and removed source folder: - Legal
+2025-02-24 01:16:38,130 - Processing folder: - Links
+2025-02-24 01:16:38,132 - Target folder 'Links' exists. Merging contents...
+2025-02-24 01:16:38,144 - Copied file: add-edit-links.jpg
+2025-02-24 01:16:38,155 - Copied file: Install-Plugin.jpg
+2025-02-24 01:16:38,165 - Copied file: settingspage.jpg
+2025-02-24 01:16:38,173 - Copied file: Shortcode-EX-e1433675525924.jpg
+2025-02-24 01:16:38,183 - Copied file: widgets.jpg
+2025-02-24 01:16:38,194 - Copied file: readme.txt
+2025-02-24 01:16:38,203 - Copied file: wordpressorg.jpg
+2025-02-24 01:16:38,212 - Copied file: wp-links-page-free.css
+2025-02-24 01:16:38,254 - Copied file: wp-links-page-free.js
+2025-02-24 01:16:38,320 - Copied file: wp-links-page-free.php
+2025-02-24 01:16:38,332 - Copied file: ae-themes-ad.png
+2025-02-24 01:16:38,447 - Copied file: class-featured-listings-widget.php
+2025-02-24 01:16:38,496 - Copied file: class-listing-template.php
+2025-02-24 01:16:38,527 - Copied file: class-listings-search-widget.php
+2025-02-24 01:16:38,561 - Copied file: class-listings.php
+2025-02-24 01:16:38,625 - Copied file: class-taxonomies.php
+2025-02-24 01:16:38,635 - Copied file: wp-listings-single.css
+2025-02-24 01:16:38,644 - Copied file: wp-listings-widgets.css
+2025-02-24 01:16:38,654 - Copied file: wp-listings.css
+2025-02-24 01:16:38,682 - Copied file: functions.php
+2025-02-24 01:16:38,732 - Copied file: helpers.php
+2025-02-24 01:16:38,764 - Copied file: jquery.validate.js
+2025-02-24 01:16:38,803 - Copied file: jquery.validate.min.js
+2025-02-24 01:16:38,814 - Copied file: single-listing.js
+2025-02-24 01:16:38,824 - Copied file: single-listing.min.js
+2025-02-24 01:16:38,835 - Copied file: wp-listings-single.scss
+2025-02-24 01:16:38,846 - Copied file: wp-listings-widgets.scss
+2025-02-24 01:16:38,857 - Copied file: wp-listings.scss
+2025-02-24 01:16:38,877 - Copied file: shortcodes.php
+2025-02-24 01:16:38,893 - Copied file: agentevo-metabox.php
+2025-02-24 01:16:38,943 - Copied file: archive-listing.php
+2025-02-24 01:16:39,054 - Copied file: create-tax.php
+2025-02-24 01:16:39,119 - Copied file: edit-tax.php
+2025-02-24 01:16:39,143 - Copied file: listing-details-metabox.php
+2025-02-24 01:16:39,162 - Copied file: listing-features-metabox.php
+2025-02-24 01:16:39,202 - Copied file: reorder-tax.php
+2025-02-24 01:16:39,409 - Copied file: single-listing.php
+2025-02-24 01:16:39,464 - Copied file: wp-listings-settings.php
+2025-02-24 01:16:39,476 - Copied file: wp_listings.pot
+2025-02-24 01:16:39,506 - Copied file: plugin.php
+2025-02-24 01:16:39,522 - Copied file: readme.txt
+2025-02-24 01:16:39,542 - Copied file: uninstall.php
+2025-02-24 01:16:39,552 - Merged and removed source folder: - Links
+2025-02-24 01:16:39,552 - Processing folder: - Listings
+2025-02-24 01:16:39,559 - Target folder 'Listings' exists. Merging contents...
+2025-02-24 01:16:39,630 - Copied file: wp-liveracers-widget.php
+2025-02-24 01:16:39,642 - Copied file: license.txt
+2025-02-24 01:16:39,652 - Copied file: readme.txt
+2025-02-24 01:16:39,671 - Copied file: wp-liveracers.js
+2025-02-24 01:16:39,739 - Copied file: wp-liveracers.php
+2025-02-24 01:16:39,742 - Merged and removed source folder: - Listings
+2025-02-24 01:16:39,751 - Processing folder: - Live Streams
+2025-02-24 01:16:39,754 - Renamed folder to: Live Streams
+2025-02-24 01:16:39,760 - Processing folder: - LMS
+2025-02-24 01:16:39,769 - Renamed folder to: LMS
+2025-02-24 01:16:39,776 - Processing folder: - Localization
+2025-02-24 01:16:39,778 - Target folder 'Localization' exists. Merging contents...
+2025-02-24 01:16:39,822 - Copied file: embed-gist.php
+2025-02-24 01:16:39,829 - Copied file: mce-button.png
+2025-02-24 01:16:39,855 - Copied file: mce-gist.js
+2025-02-24 01:16:39,865 - Copied file: quicktags-gist.js
+2025-02-24 01:16:39,877 - Copied file: readme.txt
+2025-02-24 01:16:39,878 - Merged and removed source folder: - Localization
+2025-02-24 01:16:39,885 - Processing folder: - Maintenance
+2025-02-24 01:16:39,893 - Target folder 'Maintenance' exists. Merging contents...
+2025-02-24 01:16:39,965 - Copied file: delete-all-comments.php
+2025-02-24 01:16:39,987 - Copied file: readme.txt
+2025-02-24 01:16:39,988 - Merged and removed source folder: - Maintenance
+2025-02-24 01:16:39,991 - Processing folder: - Maps
+2025-02-24 01:16:39,995 - Target folder 'Maps' exists. Merging contents...
+2025-02-24 01:16:40,035 - Copied file: easy-google-maps.php
+2025-02-24 01:16:40,045 - Copied file: license-gnu.txt
+2025-02-24 01:16:40,059 - Copied file: readme.txt
+2025-02-24 01:16:40,062 - Copied file: screenshot-1.gif
+2025-02-24 01:16:40,073 - Copied file: screenshot-2.gif
+2025-02-24 01:16:40,077 - Merged and removed source folder: - Maps
+2025-02-24 01:16:40,077 - Processing folder: - Marketing
+2025-02-24 01:16:40,080 - Target folder 'Marketing' exists. Merging contents...
+2025-02-24 01:16:40,154 - Copied file: access.php
+2025-02-24 01:16:40,361 - Copied file: admin.php
+2025-02-24 01:16:40,424 - Copied file: admin_testing.php
+2025-02-24 01:16:40,455 - Copied file: CF_API.php
+2025-02-24 01:16:40,484 - Copied file: clickfunnels.php
+2025-02-24 01:16:40,494 - Copied file: bootstrap.css
+2025-02-24 01:16:40,505 - Copied file: font-awesome.css
+2025-02-24 01:16:40,531 - Copied file: fontawesome-webfont.eot
+2025-02-24 01:16:40,551 - Copied file: fontawesome-webfont.svg
+2025-02-24 01:16:40,561 - Copied file: fontawesome-webfont.ttf
+2025-02-24 01:16:40,571 - Copied file: fontawesome-webfont.woff
+2025-02-24 01:16:40,579 - Copied file: fontawesome-webfont.woff2
+2025-02-24 01:16:40,590 - Copied file: FontAwesome.otf
+2025-02-24 01:16:40,598 - Copied file: footer.php
+2025-02-24 01:16:40,601 - Copied file: geobg.png
+2025-02-24 01:16:40,609 - Copied file: icon.png
+2025-02-24 01:16:40,630 - Copied file: admin.js
+2025-02-24 01:16:40,640 - Copied file: hidedraft.js
+2025-02-24 01:16:40,642 - Copied file: logo.png
+2025-02-24 01:16:40,658 - Copied file: readme.txt
+2025-02-24 01:16:40,724 - Copied file: support.php
+2025-02-24 01:16:40,728 - Merged and removed source folder: - Marketing
+2025-02-24 01:16:40,732 - Processing folder: - Navigation
+2025-02-24 01:16:40,734 - Target folder 'Navigation' exists. Merging contents...
+2025-02-24 01:16:40,764 - Copied file: gb-ajax-handler.php
+2025-02-24 01:16:40,797 - Copied file: settings.php
+2025-02-24 01:16:40,802 - Copied file: 1.png
+2025-02-24 01:16:40,806 - Copied file: 2.png
+2025-02-24 01:16:40,807 - Copied file: 3.png
+2025-02-24 01:16:40,810 - Copied file: 4.png
+2025-02-24 01:16:40,812 - Copied file: 5.png
+2025-02-24 01:16:40,820 - Copied file: modal-ad.png
+2025-02-24 01:16:40,827 - Copied file: Icon.png
+2025-02-24 01:16:40,837 - Copied file: logo.png
+2025-02-24 01:16:40,851 - Copied file: page-icon.png
+2025-02-24 01:16:40,853 - Copied file: TinyMCEButton-Wide.png
+2025-02-24 01:16:40,859 - Copied file: TinyMCEButton.png
+2025-02-24 01:16:40,979 - Copied file: gb-modal.js
+2025-02-24 01:16:40,991 - Copied file: colpick.css
+2025-02-24 01:16:41,021 - Copied file: colpick.js
+2025-02-24 01:16:41,032 - Copied file: LICENSE
+2025-02-24 01:16:41,134 - Copied file: knockout-3.2.0.js
+2025-02-24 01:16:41,156 - Copied file: knockout-utilities.js
+2025-02-24 01:16:41,198 - Copied file: jquery.tooltipster.min.js
+2025-02-24 01:16:41,209 - Copied file: README.md
+2025-02-24 01:16:41,225 - Copied file: tooltipster.css
+2025-02-24 01:16:41,253 - Copied file: settings.js
+2025-02-24 01:16:41,279 - Copied file: tinymce.gravitybuttons-plugin.js
+2025-02-24 01:16:41,294 - Copied file: colors.less
+2025-02-24 01:16:41,305 - Copied file: buttons.less
+2025-02-24 01:16:41,314 - Copied file: gb-form-box.less
+2025-02-24 01:16:41,325 - Copied file: gb-modal.less
+2025-02-24 01:16:41,334 - Copied file: gb-options-list.less
+2025-02-24 01:16:41,342 - Copied file: gb-setup-steps.less
+2025-02-24 01:16:41,353 - Copied file: gb.css
+2025-02-24 01:16:41,361 - Copied file: gb.less
+2025-02-24 01:16:41,372 - Copied file: settings.less
+2025-02-24 01:16:41,378 - Copied file: setup.less
+2025-02-24 01:16:41,389 - Copied file: typography.less
+2025-02-24 01:16:41,399 - Copied file: utility.less
+2025-02-24 01:16:41,415 - Copied file: gb-modal.html
+2025-02-24 01:16:41,427 - Copied file: settings.html
+2025-02-24 01:16:41,465 - Copied file: gravity-buttons.php
+2025-02-24 01:16:41,475 - Copied file: gb-button.css
+2025-02-24 01:16:41,487 - Copied file: gb-button.less
+2025-02-24 01:16:41,498 - Copied file: gb-utilities.less
+2025-02-24 01:16:41,509 - Copied file: readme.txt
+2025-02-24 01:16:41,520 - Copied file: Banner-772x250.jpg
+2025-02-24 01:16:41,528 - Copied file: screenshot-1.jpg
+2025-02-24 01:16:41,540 - Copied file: screenshot-2.jpg
+2025-02-24 01:16:41,549 - Copied file: screenshot-3.jpg
+2025-02-24 01:16:41,557 - Copied file: screenshot-4.jpg
+2025-02-24 01:16:41,566 - Copied file: wp-different-navigation-css.css
+2025-02-24 01:16:41,576 - Copied file: readme.txt
+2025-02-24 01:16:41,731 - Copied file: wp-different-navigation-on-each-page-and-post.php
+2025-02-24 01:16:41,879 - Copied file: admin.php
+2025-02-24 01:16:41,884 - Copied file: buddydrive-editor.gif
+2025-02-24 01:16:41,925 - Copied file: comments.php
+2025-02-24 01:16:42,342 - Copied file: settings.php
+2025-02-24 01:16:42,386 - Copied file: sticky.php
+2025-02-24 01:16:42,630 - Copied file: thanks.php
+2025-02-24 01:16:42,653 - Copied file: activity.php
+2025-02-24 01:16:42,680 - Copied file: functions.php
+2025-02-24 01:16:42,852 - Copied file: groups.php
+2025-02-24 01:16:42,877 - Copied file: loader.php
+2025-02-24 01:16:42,907 - Copied file: notifications.php
+2025-02-24 01:16:42,947 - Copied file: screens.php
+2025-02-24 01:16:42,997 - Copied file: settings.php
+2025-02-24 01:16:43,020 - Copied file: classes.php
+2025-02-24 01:16:43,048 - Copied file: functions.php
+2025-02-24 01:16:43,079 - Copied file: tags.php
+2025-02-24 01:16:43,107 - Copied file: widgets.php
+2025-02-24 01:16:43,166 - Copied file: actions.php
+2025-02-24 01:16:43,192 - Copied file: capabilities.php
+2025-02-24 01:16:43,228 - Copied file: classes.php
+2025-02-24 01:16:43,247 - Copied file: filters.php
+2025-02-24 01:16:43,312 - Copied file: functions.php
+2025-02-24 01:16:43,344 - Copied file: options.php
+2025-02-24 01:16:43,374 - Copied file: rewrites.php
+2025-02-24 01:16:43,398 - Copied file: template-functions.php
+2025-02-24 01:16:43,427 - Copied file: template-loader.php
+2025-02-24 01:16:43,448 - Copied file: upgrade.php
+2025-02-24 01:16:43,536 - Copied file: widgets.php
+2025-02-24 01:16:43,579 - Copied file: classes.php
+2025-02-24 01:16:43,623 - Copied file: functions.php
+2025-02-24 01:16:43,802 - Copied file: tags.php
+2025-02-24 01:16:43,969 - Copied file: widgets.php
+2025-02-24 01:16:44,012 - Copied file: functions.php
+2025-02-24 01:16:44,041 - Copied file: tags.php
+2025-02-24 01:16:44,132 - Copied file: widgets.php
+2025-02-24 01:16:44,163 - Copied file: jquery.raty.js
+2025-02-24 01:16:44,201 - Copied file: jquery.raty.min.js
+2025-02-24 01:16:44,222 - Copied file: script.js
+2025-02-24 01:16:44,249 - Copied file: script.min.js
+2025-02-24 01:16:44,275 - Copied file: tagging.js
+2025-02-24 01:16:44,309 - Copied file: tagging.min.js
+2025-02-24 01:16:44,320 - Copied file: wp-idea-stream-fr_FR.mo
+2025-02-24 01:16:44,332 - Copied file: wp-idea-stream-fr_FR.po
+2025-02-24 01:16:44,347 - Copied file: wp-idea-stream.pot
+2025-02-24 01:16:44,358 - Copied file: readme.txt
+2025-02-24 01:16:44,393 - Copied file: archive.php
+2025-02-24 01:16:44,455 - Copied file: idea-entry.php
+2025-02-24 01:16:44,485 - Copied file: idea-footer.php
+2025-02-24 01:16:44,541 - Copied file: idea-form.php
+2025-02-24 01:16:44,614 - Copied file: idea-group.php
+2025-02-24 01:16:44,639 - Copied file: idea-header.php
+2025-02-24 01:16:44,692 - Copied file: idea-loop.php
+2025-02-24 01:16:44,715 - Copied file: idea-plugin.php
+2025-02-24 01:16:44,753 - Copied file: signup.php
+2025-02-24 01:16:44,764 - Copied file: style.css
+2025-02-24 01:16:44,863 - Copied file: user-comments.php
+2025-02-24 01:16:44,937 - Copied file: user-profile.php
+2025-02-24 01:16:44,969 - Copied file: wp-idea-stream.php
+2025-02-24 01:16:44,990 - Merged and removed source folder: - Navigation
+2025-02-24 01:16:44,991 - Processing folder: - Notice
+2025-02-24 01:16:44,993 - Renamed folder to: Notice
+2025-02-24 01:16:44,994 - Processing folder: - Notifications
+2025-02-24 01:16:44,995 - Target folder 'Notifications' exists. Merging contents...
+2025-02-24 01:16:45,028 - Copied file: draft-notifier.php
+2025-02-24 01:16:45,038 - Copied file: readme.txt
+2025-02-24 01:16:45,039 - Merged and removed source folder: - Notifications
+2025-02-24 01:16:45,045 - Processing folder: - Page Management
+2025-02-24 01:16:45,048 - Renamed folder to: Page Management
+2025-02-24 01:16:45,055 - Processing folder: - Pagination
+2025-02-24 01:16:45,062 - Renamed folder to: Pagination
+2025-02-24 01:16:45,092 - Processing folder: - Polls
+2025-02-24 01:16:45,095 - Target folder 'Polls' exists. Merging contents...
+2025-02-24 01:16:45,573 - Copied file: add.php
+2025-02-24 01:16:45,594 - Copied file: addSubmit.php
+2025-02-24 01:16:45,607 - Copied file: admin.css
+2025-02-24 01:16:45,609 - Copied file: delete.png
+2025-02-24 01:16:45,616 - Copied file: picker.png
+2025-02-24 01:16:45,624 - Copied file: reorder.gif
+2025-02-24 01:16:45,631 - Copied file: ui-bg_diagonals-thick_18_b81900_40x40.png
+2025-02-24 01:16:45,640 - Copied file: ui-bg_diagonals-thick_20_666666_40x40.png
+2025-02-24 01:16:45,648 - Copied file: ui-bg_flat_10_000000_40x100.png
+2025-02-24 01:16:45,657 - Copied file: ui-bg_glass_100_f6f6f6_1x400.png
+2025-02-24 01:16:45,665 - Copied file: ui-bg_glass_100_fdf5ce_1x400.png
+2025-02-24 01:16:45,673 - Copied file: ui-bg_glass_65_ffffff_1x400.png
+2025-02-24 01:16:45,680 - Copied file: ui-bg_gloss-wave_35_f6a828_500x100.png
+2025-02-24 01:16:45,688 - Copied file: ui-bg_highlight-soft_100_eeeeee_1x100.png
+2025-02-24 01:16:45,695 - Copied file: ui-bg_highlight-soft_75_ffe45c_1x100.png
+2025-02-24 01:16:45,702 - Copied file: ui-icons_222222_256x240.png
+2025-02-24 01:16:45,711 - Copied file: ui-icons_228ef1_256x240.png
+2025-02-24 01:16:45,719 - Copied file: ui-icons_ef8c08_256x240.png
+2025-02-24 01:16:45,726 - Copied file: ui-icons_ffd27a_256x240.png
+2025-02-24 01:16:45,728 - Copied file: ui-icons_ffffff_256x240.png
+2025-02-24 01:16:45,752 - Copied file: delete-poll.php
+2025-02-24 01:16:45,770 - Copied file: editSubmit.php
+2025-02-24 01:16:45,787 - Copied file: export-poll.php
+2025-02-24 01:16:45,842 - Copied file: menu.php
+2025-02-24 01:16:45,886 - Copied file: polls.php
+2025-02-24 01:16:46,074 - Copied file: settings.php
+2025-02-24 01:16:46,090 - Copied file: wpcvp.js
+2025-02-24 01:16:46,125 - Copied file: color-vote-polls.php
+2025-02-24 01:16:46,137 - Copied file: style.css
+2025-02-24 01:16:46,138 - Copied file: calendar.gif
+2025-02-24 01:16:46,147 - Copied file: delete.png
+2025-02-24 01:16:46,158 - Copied file: elegantthemes.gif
+2025-02-24 01:16:46,165 - Copied file: slidervilla-ad1.jpg
+2025-02-24 01:16:46,193 - Copied file: Thumbs.db
+2025-02-24 01:16:46,197 - Copied file: wysija.jpg
+2025-02-24 01:16:46,219 - Copied file: front.php
+2025-02-24 01:16:46,256 - Copied file: functions.php
+2025-02-24 01:16:46,275 - Copied file: shortcodes.php
+2025-02-24 01:16:46,306 - Copied file: datepicker.js
+2025-02-24 01:16:46,333 - Copied file: farbtastic.js
+2025-02-24 01:16:46,387 - Copied file: formtips.js
+2025-02-24 01:16:46,418 - Copied file: jquery.validate.js
+2025-02-24 01:16:46,448 - Copied file: wpcvp.js
+2025-02-24 01:16:46,461 - Copied file: default.pot
+2025-02-24 01:16:46,469 - Copied file: wpcvp-fr_FR.mo
+2025-02-24 01:16:46,482 - Copied file: wpcvp-fr_FR.po
+2025-02-24 01:16:46,492 - Copied file: readme.txt
+2025-02-24 01:16:46,494 - Copied file: screenshot-1.png
+2025-02-24 01:16:46,503 - Copied file: screenshot-2.png
+2025-02-24 01:16:46,509 - Copied file: screenshot-3.png
+2025-02-24 01:16:46,516 - Copied file: screenshot-4.png
+2025-02-24 01:16:46,532 - Merged and removed source folder: - Polls
+2025-02-24 01:16:46,532 - Processing folder: - Popularity
+2025-02-24 01:16:46,535 - Renamed folder to: Popularity
+2025-02-24 01:16:46,536 - Processing folder: - Post Management
+2025-02-24 01:16:46,543 - Renamed folder to: Post Management
+2025-02-24 01:16:46,544 - Processing folder: - Posts
+2025-02-24 01:16:46,544 - Target folder 'Posts' exists. Merging contents...
+2025-02-24 01:16:46,558 - Copied file: main.css
+2025-02-24 01:16:46,568 - Copied file: attorney-icon.png
+2025-02-24 01:16:46,575 - Copied file: cases-icon.png
+2025-02-24 01:16:46,583 - Copied file: social-icons.png
+2025-02-24 01:16:46,623 - Copied file: attorneys.php
+2025-02-24 01:16:46,655 - Copied file: cases.php
+2025-02-24 01:16:46,664 - Copied file: README.md
+2025-02-24 01:16:46,674 - Copied file: readme.txt
+2025-02-24 01:16:46,740 - Copied file: archive-wplawyer-attorney.php
+2025-02-24 01:16:46,766 - Copied file: archive-wplawyer-cases.php
+2025-02-24 01:16:46,832 - Copied file: single-wplawyer-attorney.php
+2025-02-24 01:16:46,865 - Copied file: single-wplawyer-cases.php
+2025-02-24 01:16:46,884 - Copied file: uninstall.php
+2025-02-24 01:16:46,908 - Copied file: wp-lawyer.php
+2025-02-24 01:16:46,911 - Merged and removed source folder: - Posts
+2025-02-24 01:16:46,916 - Processing folder: - Publishing
+2025-02-24 01:16:46,918 - Renamed folder to: Publishing
+2025-02-24 01:16:46,919 - Processing folder: - Quote Management
+2025-02-24 01:16:46,927 - Renamed folder to: Quote Management
+2025-02-24 01:16:46,928 - Processing folder: - Recipes
+2025-02-24 01:16:46,938 - Target folder 'Recipes' exists. Merging contents...
+2025-02-24 01:16:46,955 - Copied file: change_log.txt
+2025-02-24 01:16:46,965 - Copied file: edit_area.css
+2025-02-24 01:16:47,008 - Copied file: edit_area_full.js
+2025-02-24 01:16:47,016 - Copied file: autocompletion.gif
+2025-02-24 01:16:47,024 - Copied file: close.gif
+2025-02-24 01:16:47,032 - Copied file: fullscreen.gif
+2025-02-24 01:16:47,035 - Copied file: go_to_line.gif
+2025-02-24 01:16:47,049 - Copied file: help.gif
+2025-02-24 01:16:47,056 - Copied file: highlight.gif
+2025-02-24 01:16:47,059 - Copied file: load.gif
+2025-02-24 01:16:47,072 - Copied file: move.gif
+2025-02-24 01:16:47,080 - Copied file: newdocument.gif
+2025-02-24 01:16:47,088 - Copied file: opacity.png
+2025-02-24 01:16:47,091 - Copied file: processing.gif
+2025-02-24 01:16:47,104 - Copied file: redo.gif
+2025-02-24 01:16:47,112 - Copied file: reset_highlight.gif
+2025-02-24 01:16:47,121 - Copied file: save.gif
+2025-02-24 01:16:47,128 - Copied file: search.gif
+2025-02-24 01:16:47,136 - Copied file: smooth_selection.gif
+2025-02-24 01:16:47,143 - Copied file: spacer.gif
+2025-02-24 01:16:47,151 - Copied file: statusbar_resize.gif
+2025-02-24 01:16:47,158 - Copied file: undo.gif
+2025-02-24 01:16:47,165 - Copied file: word_wrap.gif
+2025-02-24 01:16:47,169 - Copied file: index.html
+2025-02-24 01:16:47,187 - Copied file: bg.js
+2025-02-24 01:16:47,199 - Copied file: cs.js
+2025-02-24 01:16:47,211 - Copied file: de.js
+2025-02-24 01:16:47,222 - Copied file: dk.js
+2025-02-24 01:16:47,235 - Copied file: en.js
+2025-02-24 01:16:47,249 - Copied file: eo.js
+2025-02-24 01:16:47,261 - Copied file: es.js
+2025-02-24 01:16:47,273 - Copied file: fi.js
+2025-02-24 01:16:47,285 - Copied file: fr.js
+2025-02-24 01:16:47,297 - Copied file: hr.js
+2025-02-24 01:16:47,308 - Copied file: id.js
+2025-02-24 01:16:47,320 - Copied file: it.js
+2025-02-24 01:16:47,333 - Copied file: ja.js
+2025-02-24 01:16:47,344 - Copied file: mk.js
+2025-02-24 01:16:47,357 - Copied file: nl.js
+2025-02-24 01:16:47,369 - Copied file: pl.js
+2025-02-24 01:16:47,382 - Copied file: pt.js
+2025-02-24 01:16:47,392 - Copied file: ru.js
+2025-02-24 01:16:47,405 - Copied file: sk.js
+2025-02-24 01:16:47,416 - Copied file: zh.js
+2025-02-24 01:16:47,424 - Copied file: license_apache.txt
+2025-02-24 01:16:47,432 - Copied file: license_bsd.txt
+2025-02-24 01:16:47,443 - Copied file: license_lgpl.txt
+2025-02-24 01:16:47,462 - Copied file: basic.js
+2025-02-24 01:16:47,476 - Copied file: brainfuck.js
+2025-02-24 01:16:47,490 - Copied file: c.js
+2025-02-24 01:16:47,508 - Copied file: coldfusion.js
+2025-02-24 01:16:47,524 - Copied file: cpp.js
+2025-02-24 01:16:47,538 - Copied file: css.js
+2025-02-24 01:16:47,552 - Copied file: html.js
+2025-02-24 01:16:47,566 - Copied file: java.js
+2025-02-24 01:16:47,586 - Copied file: js.js
+2025-02-24 01:16:47,605 - Copied file: pas.js
+2025-02-24 01:16:47,623 - Copied file: perl.js
+2025-02-24 01:16:47,644 - Copied file: php.js
+2025-02-24 01:16:47,664 - Copied file: python.js
+2025-02-24 01:16:47,676 - Copied file: robotstxt.js
+2025-02-24 01:16:47,691 - Copied file: ruby.js
+2025-02-24 01:16:47,707 - Copied file: sql.js
+2025-02-24 01:16:47,725 - Copied file: tsql.js
+2025-02-24 01:16:47,742 - Copied file: vb.js
+2025-02-24 01:16:47,757 - Copied file: xml.js
+2025-02-24 01:16:47,768 - Copied file: todo.txt
+2025-02-24 01:16:47,771 - Copied file: index.html
+2025-02-24 01:16:47,786 - Copied file: readme.txt
+2025-02-24 01:16:47,842 - Copied file: wp-editarea.php
+2025-02-24 01:16:47,854 - Merged and removed source folder: - Recipes
+2025-02-24 01:16:47,854 - Processing folder: - Recruitment
+2025-02-24 01:16:47,855 - Target folder 'Recruitment' exists. Merging contents...
+2025-02-24 01:16:47,882 - Copied file: class-wp-job-manager-contact-listing-form.php
+2025-02-24 01:16:47,905 - Copied file: cf7.php
+2025-02-24 01:16:47,928 - Copied file: gravityforms.php
+2025-02-24 01:16:47,952 - Copied file: ninjaforms.php
+2025-02-24 01:16:47,962 - Copied file: readme.txt
+2025-02-24 01:16:47,989 - Copied file: wp-job-manager-contact-listing.php
+2025-02-24 01:16:47,999 - Copied file: wp-jv-post-reading-groups-hu_HU.mo
+2025-02-24 01:16:48,008 - Copied file: wp-jv-post-reading-groups-hu_HU.po
+2025-02-24 01:16:48,024 - Copied file: Readme.txt
+2025-02-24 01:16:48,047 - Copied file: uninstall.php
+2025-02-24 01:16:48,064 - Copied file: wp-jv-post-reading-groups.css
+2025-02-24 01:16:48,088 - Copied file: wp-jv-post-reading-groups.js
+2025-02-24 01:16:48,111 - Copied file: wp-jv-post-reading-groups.min.js
+2025-02-24 01:16:48,136 - Copied file: wp-jv-post-reading-groups.php
+2025-02-24 01:16:48,140 - Merged and removed source folder: - Recruitment
+2025-02-24 01:16:48,143 - Processing folder: - Religion
+2025-02-24 01:16:48,145 - Target folder 'Religion' exists. Merging contents...
+2025-02-24 01:16:48,272 - Copied file: cs-subject-of-the-week.php
+2025-02-24 01:16:48,286 - Copied file: readme.txt
+2025-02-24 01:16:48,287 - Merged and removed source folder: - Religion
+2025-02-24 01:16:48,293 - Processing folder: - Resume
+2025-02-24 01:16:48,303 - Target folder 'Resume' exists. Merging contents...
+2025-02-24 01:16:48,349 - Copied file: dhresume.php
+2025-02-24 01:16:48,357 - Copied file: readme.txt
+2025-02-24 01:16:48,388 - Copied file: class.Node_Value.php
+2025-02-24 01:16:48,421 - Copied file: class.Xmf_Parser.php
+2025-02-24 01:16:48,437 - Copied file: mfdef.adr.php
+2025-02-24 01:16:48,451 - Copied file: mfdef.geo.php
+2025-02-24 01:16:48,470 - Copied file: mfdef.hCalendar.php
+2025-02-24 01:16:48,492 - Copied file: mfdef.hCard.php
+2025-02-24 01:16:48,508 - Copied file: mfdef.hResume.php
+2025-02-24 01:16:48,527 - Copied file: mfdef.hReview.php
+2025-02-24 01:16:48,541 - Copied file: mfdef.rel-license.php
+2025-02-24 01:16:48,555 - Copied file: mfdef.rel-tag.php
+2025-02-24 01:16:48,569 - Copied file: mfdef.xfn.php
+2025-02-24 01:16:48,598 - Copied file: mfpost.general.php
+2025-02-24 01:16:48,624 - Copied file: mfpost.hCard.php
+2025-02-24 01:16:48,639 - Copied file: lang.xmfp.php
+2025-02-24 01:16:48,660 - Copied file: mfdef.mF_roots.php
+2025-02-24 01:16:48,720 - Copied file: xmlrpcDHResume.php
+2025-02-24 01:16:48,769 - Copied file: configuracao_emails.php
+2025-02-24 01:16:48,772 - Copied file: configuracao_emails.php-tmp
+2025-02-24 01:16:48,787 - Copied file: style.css
+2025-02-24 01:16:48,872 - Copied file: formulario.php
+2025-02-24 01:16:48,908 - Copied file: class.wpwls.php
+2025-02-24 01:16:48,929 - Copied file: enviarCadastro.php
+2025-02-24 01:16:48,932 - Copied file: enviarCadastro.php-tmp
+2025-02-24 01:16:48,953 - Copied file: enviarOptions.php
+2025-02-24 01:16:48,955 - Copied file: enviarOptions.php-tmp
+2025-02-24 01:16:48,970 - Copied file: informativo.php
+2025-02-24 01:16:49,006 - Copied file: script.js
+2025-02-24 01:16:49,048 - Copied file: lista_areas_servicos.php
+2025-02-24 01:16:49,107 - Copied file: lista_curriculos.php
+2025-02-24 01:16:49,123 - Copied file: estados.php
+2025-02-24 01:16:49,142 - Copied file: paginacao.php
+2025-02-24 01:16:49,161 - Copied file: paginacao2.php
+2025-02-24 01:16:49,175 - Copied file: bootstrap.min.css
+2025-02-24 01:16:49,187 - Copied file: bootstrapOriginal.min.css
+2025-02-24 01:16:49,196 - Copied file: wpcv.eot
+2025-02-24 01:16:49,206 - Copied file: wpcv.svg
+2025-02-24 01:16:49,214 - Copied file: wpcv.ttf
+2025-02-24 01:16:49,224 - Copied file: wpcv.woff
+2025-02-24 01:16:49,233 - Copied file: wpcvf_lightbox.css
+2025-02-24 01:16:49,243 - Copied file: wp_curriculo_style.css
+2025-02-24 01:16:50,512 - Copied file: cadastro.php
+2025-02-24 01:16:50,976 - Copied file: cadastro_admin.php
+2025-02-24 01:16:51,059 - Copied file: formulario.php
+2025-02-24 01:16:51,069 - Copied file: cross.png
+2025-02-24 01:16:51,079 - Copied file: email.png
+2025-02-24 01:16:51,090 - Copied file: page_excel.png
+2025-02-24 01:16:51,098 - Copied file: page_white_text.png
+2025-02-24 01:16:51,109 - Copied file: tick.png
+2025-02-24 01:16:51,120 - Copied file: user_edit.png
+2025-02-24 01:16:51,183 - Copied file: index.php
+2025-02-24 01:16:51,184 - Copied file: index.php-tmp
+2025-02-24 01:16:51,202 - Copied file: install.php
+2025-02-24 01:16:51,203 - Copied file: install.php-tmp
+2025-02-24 01:16:51,251 - Copied file: bootstrap.min.js
+2025-02-24 01:16:51,344 - Copied file: jquery.maskedinput-1.1.4.pack.js
+2025-02-24 01:16:51,375 - Copied file: script.js
+2025-02-24 01:16:51,408 - Copied file: scriptAdm.js
+2025-02-24 01:16:51,425 - Copied file: scriptArea.js
+2025-02-24 01:16:51,446 - Copied file: wpcv_lightbox.js
+2025-02-24 01:16:51,459 - Copied file: license.txt
+2025-02-24 01:16:51,539 - Copied file: lista_curriculos.php
+2025-02-24 01:16:51,553 - Copied file: readme.txt
+2025-02-24 01:16:51,566 - Copied file: style.php
+2025-02-24 01:16:51,583 - Copied file: uninstall.php
+2025-02-24 01:16:51,595 - Merged and removed source folder: - Resume
+2025-02-24 01:16:51,595 - Processing folder: - Reviews
+2025-02-24 01:16:51,597 - Target folder 'Reviews' exists. Merging contents...
+2025-02-24 01:16:51,637 - Copied file: admin.php
+2025-02-24 01:16:51,664 - Copied file: api.php
+2025-02-24 01:16:51,690 - Copied file: evalor.php
+2025-02-24 01:16:51,721 - Copied file: frontend.php
+2025-02-24 01:16:51,834 - Copied file: options.php
+2025-02-24 01:16:51,844 - Copied file: readme.txt
+2025-02-24 01:16:51,861 - Copied file: sidebar.php
+2025-02-24 01:16:51,887 - Copied file: URLRetriever.php
+2025-02-24 01:16:51,911 - Copied file: URLRetrieverTest.php
+2025-02-24 01:16:51,934 - Copied file: woocommerce.php
+2025-02-24 01:16:51,938 - Merged and removed source folder: - Reviews
+2025-02-24 01:16:51,942 - Processing folder: - Search
+2025-02-24 01:16:51,944 - Target folder 'Search' exists. Merging contents...
+2025-02-24 01:16:51,966 - Copied file: gpl-3.0.txt
+2025-02-24 01:16:52,008 - Copied file: index.php
+2025-02-24 01:16:52,023 - Copied file: readme.txt
+2025-02-24 01:16:52,026 - Copied file: screenshot-1.png
+2025-02-24 01:16:52,037 - Copied file: screenshot-2.png
+2025-02-24 01:16:52,062 - Copied file: checkboxes.php
+2025-02-24 01:16:52,095 - Copied file: greatrealestate.php
+2025-02-24 01:16:52,120 - Copied file: sort-order.php
+2025-02-24 01:16:52,131 - Copied file: CHANGELOG.txt
+2025-02-24 01:16:52,142 - Copied file: admin.css
+2025-02-24 01:16:52,195 - Copied file: extra_search_fields.php
+2025-02-24 01:16:52,219 - Copied file: Class.js
+2025-02-24 01:16:52,251 - Copied file: CustomSearch.js
+2025-02-24 01:16:52,259 - Copied file: LICENSE.txt
+2025-02-24 01:16:52,270 - Copied file: README.txt
+2025-02-24 01:16:52,278 - Copied file: screenshot-1.png
+2025-02-24 01:16:52,286 - Copied file: screenshot-2.png
+2025-02-24 01:16:52,379 - Copied file: options.php
+2025-02-24 01:16:52,389 - Copied file: searchforms.css
+2025-02-24 01:16:52,411 - Copied file: wp-custom-fields-search-form.php
+2025-02-24 01:16:52,420 - Copied file: wp-custom-fields-search-fr_FR.mo
+2025-02-24 01:16:52,524 - Copied file: wp-custom-fields-search.php
+2025-02-24 01:16:52,535 - Copied file: wp-custom-fields-search.pot
+2025-02-24 01:16:52,564 - Copied file: fe-super-fiction-main.php
+2025-02-24 01:16:52,573 - Copied file: fe-fiction-en_US.mo
+2025-02-24 01:16:52,586 - Copied file: fe-fiction-en_US.po
+2025-02-24 01:16:52,595 - Copied file: fe-fiction-pt_BR.mo
+2025-02-24 01:16:52,606 - Copied file: fe-fiction-pt_BR.po
+2025-02-24 01:16:52,616 - Copied file: bad_words.sql
+2025-02-24 01:16:53,153 - Copied file: fe-super-fiction-class.php
+2025-02-24 01:16:53,177 - Copied file: fe-super-fiction-config.php
+2025-02-24 01:16:53,209 - Copied file: fe-super-fiction-site-functions.php
+2025-02-24 01:16:53,333 - Copied file: fe-super-fiction-widget.php
+2025-02-24 01:16:53,398 - Copied file: ffme-fan-fiction-search-widget.php
+2025-02-24 01:16:54,979 - Copied file: fiction-views.php
+2025-02-24 01:16:54,995 - Copied file: adminoption-custom-script.js
+2025-02-24 01:16:55,016 - Copied file: custom-script.js
+2025-02-24 01:16:55,025 - Copied file: index.php
+2025-02-24 01:16:55,036 - Copied file: readme.txt
+2025-02-24 01:16:55,044 - Copied file: screenshot-1.png
+2025-02-24 01:16:55,054 - Copied file: screenshot-2.png
+2025-02-24 01:16:55,066 - Copied file: site_import_file.xml
+2025-02-24 01:16:55,122 - Copied file: fe-fiction-add-edit-validate.php
+2025-02-24 01:16:55,474 - Copied file: fe-fiction-admin-options-form.php
+2025-02-24 01:16:55,584 - Copied file: fe-fiction-admin-user-limits-form.php
+2025-02-24 01:16:55,637 - Copied file: fe-fiction-copy-from-existing-stories-select.php
+2025-02-24 01:16:55,700 - Copied file: fe-fiction-copy-from-existing-stories-select_fiction_edit.php
+2025-02-24 01:16:56,043 - Copied file: fe-fiction-display-custom-fields.php
+2025-02-24 01:16:56,077 - Copied file: fe-fiction-edit-story-limiter.php
+2025-02-24 01:16:56,093 - Copied file: fe-fiction-remove-sidebar-JS.php
+2025-02-24 01:16:56,137 - Copied file: fe-fiction-user-options-form.php
+2025-02-24 01:16:56,176 - Copied file: fe-fiction-user_profile_age.php
+2025-02-24 01:16:56,371 - Copied file: new_dashboard_page.php
+2025-02-24 01:16:56,532 - Copied file: new_dashboard_page_simple.php
+2025-02-24 01:16:56,633 - Copied file: wpu-admin-options-form.php
+2025-02-24 01:16:56,641 - Copied file: custom_fanfic.css
+2025-02-24 01:16:56,656 - Copied file: fe-fiction-age.css
+2025-02-24 01:16:56,670 - Copied file: fe-fiction-css.css
+2025-02-24 01:16:56,680 - Copied file: fe-fiction-pagination.css
+2025-02-24 01:16:56,690 - Copied file: new_dashboard.css
+2025-02-24 01:16:56,701 - Copied file: style.css
+2025-02-24 01:16:56,709 - Copied file: wpu_styles.css
+2025-02-24 01:16:56,808 - Copied file: fe-fiction-search-block.php
+2025-02-24 01:16:56,968 - Copied file: fe-fiction-site-browse-multiple.php
+2025-02-24 01:16:57,384 - Copied file: fe-fiction-site-browse-single.php
+2025-02-24 01:16:57,455 - Copied file: fe-fiction-site-browse.php
+2025-02-24 01:16:57,487 - Copied file: fe-fiction-site-profile_age_form.php
+2025-02-24 01:16:57,503 - Copied file: fe-fiction-site-submit-form.php
+2025-02-24 01:16:57,512 - Copied file: ajax-loader-circle-2.gif
+2025-02-24 01:16:57,521 - Copied file: ajax-loader-circle-3.gif
+2025-02-24 01:16:57,528 - Copied file: ajax-loader-circle.gif
+2025-02-24 01:16:57,540 - Copied file: ajax-loader.gif
+2025-02-24 01:16:57,549 - Copied file: button-orange-grad-active.fw.png
+2025-02-24 01:16:57,556 - Copied file: button-orange-grad-active.jpg
+2025-02-24 01:16:57,566 - Copied file: button-orange-grad.fw.png
+2025-02-24 01:16:57,573 - Copied file: button-orange-grad.jpg
+2025-02-24 01:16:57,581 - Copied file: db-ss-admin.png
+2025-02-24 01:16:57,590 - Copied file: db-ss-author.png
+2025-02-24 01:16:57,598 - Copied file: fiction-scoring-ss.png
+2025-02-24 01:16:57,605 - Copied file: g_rating.gif
+2025-02-24 01:16:57,615 - Copied file: hand_cursor.png
+2025-02-24 01:16:57,623 - Copied file: icons32-add.png
+2025-02-24 01:16:57,631 - Copied file: icons32.png
+2025-02-24 01:16:57,651 - Copied file: nc-17_rating.gif
+2025-02-24 01:16:57,661 - Copied file: pg-13_rating.gif
+2025-02-24 01:16:57,669 - Copied file: pg_rating.gif
+2025-02-24 01:16:57,677 - Copied file: r_rating.gif
+2025-02-24 01:16:57,738 - Copied file: jquery.validate.min.js
+2025-02-24 01:16:57,751 - Copied file: ui-bg_diagonals-thick_8_333333_40x40.png
+2025-02-24 01:16:57,757 - Copied file: ui-bg_flat_65_ffffff_40x100.png
+2025-02-24 01:16:57,766 - Copied file: ui-bg_glass_40_111111_1x400.png
+2025-02-24 01:16:57,775 - Copied file: ui-bg_glass_55_1c1c1c_1x400.png
+2025-02-24 01:16:57,783 - Copied file: ui-bg_highlight-hard_100_f9f9f9_1x100.png
+2025-02-24 01:16:57,790 - Copied file: ui-bg_highlight-hard_40_aaaaaa_1x100.png
+2025-02-24 01:16:57,797 - Copied file: ui-bg_highlight-soft_50_aaaaaa_1x100.png
+2025-02-24 01:16:57,807 - Copied file: ui-bg_inset-hard_45_cd0a0a_1x100.png
+2025-02-24 01:16:57,815 - Copied file: ui-bg_inset-hard_55_ffeb80_1x100.png
+2025-02-24 01:16:57,823 - Copied file: ui-icons_222222_256x240.png
+2025-02-24 01:16:57,833 - Copied file: ui-icons_4ca300_256x240.png
+2025-02-24 01:16:57,841 - Copied file: ui-icons_bbbbbb_256x240.png
+2025-02-24 01:16:57,850 - Copied file: ui-icons_ededed_256x240.png
+2025-02-24 01:16:57,857 - Copied file: ui-icons_ffcf29_256x240.png
+2025-02-24 01:16:57,866 - Copied file: ui-icons_ffffff_256x240.png
+2025-02-24 01:16:57,878 - Copied file: jquery-ui-1.8.14.custom.css
+2025-02-24 01:16:57,887 - Copied file: ui-bg_diagonals-thick_75_f3d8d8_40x40.png
+2025-02-24 01:16:57,894 - Copied file: ui-bg_dots-small_65_a6a6a6_2x2.png
+2025-02-24 01:16:57,902 - Copied file: ui-bg_flat_0_333333_40x100.png
+2025-02-24 01:16:57,905 - Copied file: ui-bg_flat_65_ffffff_40x100.png
+2025-02-24 01:16:57,912 - Copied file: ui-bg_flat_75_ffffff_40x100.png
+2025-02-24 01:16:57,925 - Copied file: ui-bg_glass_55_fbf8ee_1x400.png
+2025-02-24 01:16:57,934 - Copied file: ui-bg_highlight-hard_100_eeeeee_1x100.png
+2025-02-24 01:16:57,941 - Copied file: ui-bg_highlight-hard_100_f6f6f6_1x100.png
+2025-02-24 01:16:57,949 - Copied file: ui-bg_highlight-soft_15_cc0000_1x100.png
+2025-02-24 01:16:57,957 - Copied file: ui-icons_004276_256x240.png
+2025-02-24 01:16:57,966 - Copied file: ui-icons_cc0000_256x240.png
+2025-02-24 01:16:57,968 - Copied file: ui-icons_ffffff_256x240.png
+2025-02-24 01:16:57,984 - Copied file: jquery-ui-1.8.14.custom.css
+2025-02-24 01:16:57,993 - Copied file: ui-bg_diagonals-thick_90_eeeeee_40x40.png
+2025-02-24 01:16:58,000 - Copied file: ui-bg_flat_15_cd0a0a_40x100.png
+2025-02-24 01:16:58,009 - Copied file: ui-bg_glass_100_e4f1fb_1x400.png
+2025-02-24 01:16:58,016 - Copied file: ui-bg_glass_50_3baae3_1x400.png
+2025-02-24 01:16:58,024 - Copied file: ui-bg_glass_80_d7ebf9_1x400.png
+2025-02-24 01:16:58,031 - Copied file: ui-bg_highlight-hard_100_f2f5f7_1x100.png
+2025-02-24 01:16:58,040 - Copied file: ui-bg_highlight-hard_70_000000_1x100.png
+2025-02-24 01:16:58,048 - Copied file: ui-bg_highlight-soft_100_deedf7_1x100.png
+2025-02-24 01:16:58,055 - Copied file: ui-bg_highlight-soft_25_ffef8f_1x100.png
+2025-02-24 01:16:58,065 - Copied file: ui-icons_2694e8_256x240.png
+2025-02-24 01:16:58,072 - Copied file: ui-icons_2e83ff_256x240.png
+2025-02-24 01:16:58,081 - Copied file: ui-icons_3d80b3_256x240.png
+2025-02-24 01:16:58,090 - Copied file: ui-icons_72a7cf_256x240.png
+2025-02-24 01:16:58,092 - Copied file: ui-icons_ffffff_256x240.png
+2025-02-24 01:16:58,108 - Copied file: jquery-ui-1.8.14.custom.css
+2025-02-24 01:16:58,118 - Copied file: ui-bg_flat_0_aaaaaa_40x100.png
+2025-02-24 01:16:58,120 - Copied file: ui-bg_flat_75_ffffff_40x100.png
+2025-02-24 01:16:58,133 - Copied file: ui-bg_glass_55_fbf9ee_1x400.png
+2025-02-24 01:16:58,141 - Copied file: ui-bg_glass_65_ffffff_1x400.png
+2025-02-24 01:16:58,151 - Copied file: ui-bg_glass_75_dadada_1x400.png
+2025-02-24 01:16:58,157 - Copied file: ui-bg_glass_75_e6e6e6_1x400.png
+2025-02-24 01:16:58,165 - Copied file: ui-bg_glass_95_fef1ec_1x400.png
+2025-02-24 01:16:58,172 - Copied file: ui-bg_highlight-soft_75_cccccc_1x100.png
+2025-02-24 01:16:58,175 - Copied file: ui-icons_222222_256x240.png
+2025-02-24 01:16:58,184 - Copied file: ui-icons_2e83ff_256x240.png
+2025-02-24 01:16:58,195 - Copied file: ui-icons_454545_256x240.png
+2025-02-24 01:16:58,204 - Copied file: ui-icons_888888_256x240.png
+2025-02-24 01:16:58,212 - Copied file: ui-icons_cd0a0a_256x240.png
+2025-02-24 01:16:58,223 - Copied file: jquery-ui-1.8.14.custom.css
+2025-02-24 01:16:58,232 - Copied file: ui-bg_glass_55_fcf0ba_1x400.png
+2025-02-24 01:16:58,240 - Copied file: ui-bg_gloss-wave_100_ece8da_500x100.png
+2025-02-24 01:16:58,248 - Copied file: ui-bg_highlight-hard_100_f5f3e5_1x100.png
+2025-02-24 01:16:58,255 - Copied file: ui-bg_highlight-hard_100_fafaf4_1x100.png
+2025-02-24 01:16:58,262 - Copied file: ui-bg_highlight-hard_15_459e00_1x100.png
+2025-02-24 01:16:58,270 - Copied file: ui-bg_highlight-hard_95_cccccc_1x100.png
+2025-02-24 01:16:58,277 - Copied file: ui-bg_highlight-soft_25_67b021_1x100.png
+2025-02-24 01:16:58,286 - Copied file: ui-bg_highlight-soft_95_ffedad_1x100.png
+2025-02-24 01:16:58,293 - Copied file: ui-bg_inset-soft_15_2b2922_1x100.png
+2025-02-24 01:16:58,303 - Copied file: ui-icons_808080_256x240.png
+2025-02-24 01:16:58,311 - Copied file: ui-icons_847e71_256x240.png
+2025-02-24 01:16:58,319 - Copied file: ui-icons_8dc262_256x240.png
+2025-02-24 01:16:58,322 - Copied file: ui-icons_cd0a0a_256x240.png
+2025-02-24 01:16:58,335 - Copied file: ui-icons_eeeeee_256x240.png
+2025-02-24 01:16:58,339 - Copied file: ui-icons_ffffff_256x240.png
+2025-02-24 01:16:58,355 - Copied file: jquery-ui-1.8.14.custom.css
+2025-02-24 01:16:58,386 - Merged and removed source folder: - Search
+2025-02-24 01:16:58,386 - Processing folder: - Search Improvement
+2025-02-24 01:16:58,389 - Renamed folder to: Search Improvement
+2025-02-24 01:16:58,389 - Processing folder: - Security
+2025-02-24 01:16:58,391 - Target folder 'Security' exists. Merging contents...
+2025-02-24 01:16:58,403 - Copied file: cache readme.txt
+2025-02-24 01:16:58,433 - Copied file: censimg.php
+2025-02-24 01:16:58,531 - Copied file: censortive.php
+2025-02-24 01:16:58,540 - Copied file: codeword.dat
+2025-02-24 01:16:58,552 - Copied file: lib-sans-reg.ttf
+2025-02-24 01:16:58,566 - Copied file: readme.txt
+2025-02-24 01:16:58,569 - Merged and removed source folder: - Security
+2025-02-24 01:16:58,574 - Processing folder: - Simple Functionality
+2025-02-24 01:16:58,575 - Renamed folder to: Simple Functionality
+2025-02-24 01:16:58,577 - Processing folder: - Slider
+2025-02-24 01:16:58,579 - Renamed folder to: Slider
+2025-02-24 01:16:58,580 - Processing folder: - Social
+2025-02-24 01:16:58,582 - Target folder 'Social' exists. Merging contents...
+2025-02-24 01:16:58,608 - Copied file: delete-all-tags.php
+2025-02-24 01:16:58,616 - Copied file: readme.txt
+2025-02-24 01:16:58,648 - Copied file: good_shelf.php
+2025-02-24 01:16:58,657 - Copied file: README.txt
+2025-02-24 01:16:58,659 - Merged and removed source folder: - Social
+2025-02-24 01:16:58,659 - Processing folder: - Space Optimization
+2025-02-24 01:16:58,661 - Renamed folder to: Space Optimization
+2025-02-24 01:16:58,662 - Processing folder: - Spreadsheet
+2025-02-24 01:16:58,664 - Renamed folder to: Spreadsheet
+2025-02-24 01:16:58,666 - Processing folder: - Spreadsheets
+2025-02-24 01:16:58,668 - Renamed folder to: Spreadsheets
+2025-02-24 01:16:58,669 - Processing folder: - Syntax Highlighting
+2025-02-24 01:16:58,672 - Renamed folder to: Syntax Highlighting
+2025-02-24 01:16:58,672 - Processing folder: - Table Generation
+2025-02-24 01:16:58,674 - Renamed folder to: Table Generation
+2025-02-24 01:16:58,675 - Processing folder: - Tag Management
+2025-02-24 01:16:58,676 - Target folder 'Tag Management' exists. Merging contents...
+2025-02-24 01:16:58,711 - Copied file: multitags.php
+2025-02-24 01:16:58,763 - Copied file: multitags_options.php
+2025-02-24 01:16:58,790 - Copied file: readme.txt
+2025-02-24 01:16:58,793 - Copied file: screenshot-1.png
+2025-02-24 01:16:58,802 - Copied file: screenshot-2.png
+2025-02-24 01:16:58,807 - Copied file: screenshot-3.png
+2025-02-24 01:16:58,815 - Copied file: screenshot-4.png
+2025-02-24 01:16:58,823 - Copied file: settings.png
+2025-02-24 01:16:58,842 - Copied file: uninstall.php
+2025-02-24 01:16:58,845 - Copied file: without_multitags.png
+2025-02-24 01:16:58,856 - Copied file: with_multitags.png
+2025-02-24 01:16:58,861 - Merged and removed source folder: - Tag Management
+2025-02-24 01:16:58,868 - Processing folder: - Tags
+2025-02-24 01:16:58,875 - Target folder 'Tags' exists. Merging contents...
+2025-02-24 01:16:58,889 - Copied file: Readme.txt
+2025-02-24 01:16:58,924 - Copied file: wp-delete-tags.php
+2025-02-24 01:16:58,934 - Copied file: demo.png
+2025-02-24 01:16:58,945 - Copied file: external-link-aqua02.png
+2025-02-24 01:16:58,953 - Copied file: external-link-aqua03.png
+2025-02-24 01:16:58,961 - Copied file: external-link-aqua04.png
+2025-02-24 01:16:58,971 - Copied file: external-link-aqua05.png
+2025-02-24 01:16:58,978 - Copied file: external-link-aqua06.png
+2025-02-24 01:16:58,988 - Copied file: external-link-beige-dark02.png
+2025-02-24 01:16:58,995 - Copied file: external-link-beige-dark03.png
+2025-02-24 01:16:59,008 - Copied file: external-link-beige-dark04.png
+2025-02-24 01:16:59,016 - Copied file: external-link-beige-dark05.png
+2025-02-24 01:16:59,022 - Copied file: external-link-beige-dark06.png
+2025-02-24 01:16:59,032 - Copied file: external-link-blue-default02.png
+2025-02-24 01:16:59,039 - Copied file: external-link-blue-default03.png
+2025-02-24 01:16:59,047 - Copied file: external-link-blue-default04.png
+2025-02-24 01:16:59,055 - Copied file: external-link-blue-default05.png
+2025-02-24 01:16:59,063 - Copied file: external-link-blue-default06.png
+2025-02-24 01:16:59,073 - Copied file: external-link-blue-light02.png
+2025-02-24 01:16:59,081 - Copied file: external-link-blue-light03.png
+2025-02-24 01:16:59,087 - Copied file: external-link-blue-light04.png
+2025-02-24 01:16:59,094 - Copied file: external-link-blue-light05.png
+2025-02-24 01:16:59,103 - Copied file: external-link-blue-light06.png
+2025-02-24 01:16:59,112 - Copied file: external-link-blue-medium02.png
+2025-02-24 01:16:59,121 - Copied file: external-link-blue-medium03.png
+2025-02-24 01:16:59,129 - Copied file: external-link-blue-medium04.png
+2025-02-24 01:16:59,137 - Copied file: external-link-blue-medium05.png
+2025-02-24 01:16:59,144 - Copied file: external-link-blue-medium06.png
+2025-02-24 01:16:59,151 - Copied file: external-link-brown02.png
+2025-02-24 01:16:59,160 - Copied file: external-link-brown03.png
+2025-02-24 01:16:59,168 - Copied file: external-link-brown04.png
+2025-02-24 01:16:59,174 - Copied file: external-link-brown05.png
+2025-02-24 01:16:59,183 - Copied file: external-link-brown06.png
+2025-02-24 01:16:59,189 - Copied file: external-link-green-bright02.png
+2025-02-24 01:16:59,198 - Copied file: external-link-green-bright03.png
+2025-02-24 01:16:59,205 - Copied file: external-link-green-bright04.png
+2025-02-24 01:16:59,213 - Copied file: external-link-green-bright05.png
+2025-02-24 01:16:59,223 - Copied file: external-link-green-bright06.png
+2025-02-24 01:16:59,231 - Copied file: external-link-green02.png
+2025-02-24 01:16:59,238 - Copied file: external-link-green03.png
+2025-02-24 01:16:59,246 - Copied file: external-link-green04.png
+2025-02-24 01:16:59,254 - Copied file: external-link-green05.png
+2025-02-24 01:16:59,262 - Copied file: external-link-green06.png
+2025-02-24 01:16:59,270 - Copied file: external-link-grey-dark02.png
+2025-02-24 01:16:59,279 - Copied file: external-link-grey-dark03.png
+2025-02-24 01:16:59,289 - Copied file: external-link-grey-dark04.png
+2025-02-24 01:16:59,297 - Copied file: external-link-grey-dark05.png
+2025-02-24 01:16:59,305 - Copied file: external-link-grey-dark06.png
+2025-02-24 01:16:59,313 - Copied file: external-link-grey-gradient02.png
+2025-02-24 01:16:59,324 - Copied file: external-link-grey-gradient03.png
+2025-02-24 01:16:59,333 - Copied file: external-link-grey-gradient04.png
+2025-02-24 01:16:59,341 - Copied file: external-link-grey-gradient05.png
+2025-02-24 01:16:59,349 - Copied file: external-link-grey-gradient06.png
+2025-02-24 01:16:59,356 - Copied file: external-link-grey-light02.png
+2025-02-24 01:16:59,364 - Copied file: external-link-grey-light03.png
+2025-02-24 01:16:59,373 - Copied file: external-link-grey-light04.png
+2025-02-24 01:16:59,382 - Copied file: external-link-grey-light05.png
+2025-02-24 01:16:59,390 - Copied file: external-link-grey-light06.png
+2025-02-24 01:16:59,397 - Copied file: external-link-grey-medium02.png
+2025-02-24 01:16:59,405 - Copied file: external-link-grey-medium03.png
+2025-02-24 01:16:59,412 - Copied file: external-link-grey-medium04.png
+2025-02-24 01:16:59,420 - Copied file: external-link-grey-medium05.png
+2025-02-24 01:16:59,430 - Copied file: external-link-grey-medium06.png
+2025-02-24 01:16:59,437 - Copied file: external-link-lilac02.png
+2025-02-24 01:16:59,444 - Copied file: external-link-lilac03.png
+2025-02-24 01:16:59,453 - Copied file: external-link-lilac04.png
+2025-02-24 01:16:59,460 - Copied file: external-link-lilac05.png
+2025-02-24 01:16:59,467 - Copied file: external-link-lilac06.png
+2025-02-24 01:16:59,475 - Copied file: external-link-mint02.png
+2025-02-24 01:16:59,482 - Copied file: external-link-mint03.png
+2025-02-24 01:16:59,490 - Copied file: external-link-mint04.png
+2025-02-24 01:16:59,498 - Copied file: external-link-mint05.png
+2025-02-24 01:16:59,506 - Copied file: external-link-mint06.png
+2025-02-24 01:16:59,514 - Copied file: external-link-orange-dark02.png
+2025-02-24 01:16:59,522 - Copied file: external-link-orange-dark03.png
+2025-02-24 01:16:59,529 - Copied file: external-link-orange-dark04.png
+2025-02-24 01:16:59,538 - Copied file: external-link-orange-dark05.png
+2025-02-24 01:16:59,544 - Copied file: external-link-orange-dark06.png
+2025-02-24 01:16:59,553 - Copied file: external-link-orange-light02.png
+2025-02-24 01:16:59,562 - Copied file: external-link-orange-light03.png
+2025-02-24 01:16:59,569 - Copied file: external-link-orange-light04.png
+2025-02-24 01:16:59,576 - Copied file: external-link-orange-light05.png
+2025-02-24 01:16:59,586 - Copied file: external-link-orange-light06.png
+2025-02-24 01:16:59,594 - Copied file: external-link-pink02.png
+2025-02-24 01:16:59,603 - Copied file: external-link-pink03.png
+2025-02-24 01:16:59,609 - Copied file: external-link-pink04.png
+2025-02-24 01:16:59,619 - Copied file: external-link-pink05.png
+2025-02-24 01:16:59,626 - Copied file: external-link-pink06.png
+2025-02-24 01:16:59,634 - Copied file: external-link-red-dark02.png
+2025-02-24 01:16:59,643 - Copied file: external-link-red-dark03.png
+2025-02-24 01:16:59,652 - Copied file: external-link-red-dark04.png
+2025-02-24 01:16:59,660 - Copied file: external-link-red-dark05.png
+2025-02-24 01:16:59,667 - Copied file: external-link-red-dark06.png
+2025-02-24 01:16:59,674 - Copied file: external-link-red02.png
+2025-02-24 01:16:59,684 - Copied file: external-link-red03.png
+2025-02-24 01:16:59,692 - Copied file: external-link-red04.png
+2025-02-24 01:16:59,700 - Copied file: external-link-red05.png
+2025-02-24 01:16:59,706 - Copied file: external-link-red06.png
+2025-02-24 01:16:59,716 - Copied file: external-link-violet02.png
+2025-02-24 01:16:59,722 - Copied file: external-link-violet03.png
+2025-02-24 01:16:59,731 - Copied file: external-link-violet04.png
+2025-02-24 01:16:59,738 - Copied file: external-link-violet05.png
+2025-02-24 01:16:59,748 - Copied file: external-link-violet06.png
+2025-02-24 01:16:59,786 - Copied file: Thumbs.db
+2025-02-24 01:16:59,795 - Copied file: readme.txt
+2025-02-24 01:16:59,806 - Copied file: screenshot-1.png
+2025-02-24 01:16:59,859 - Copied file: wp-links-settings.php
+2025-02-24 01:16:59,889 - Copied file: wp-links.php
+2025-02-24 01:16:59,911 - Merged and removed source folder: - Tags
+2025-02-24 01:16:59,911 - Processing folder: - Taxonomy
+2025-02-24 01:16:59,912 - Target folder 'Taxonomy' exists. Merging contents...
+2025-02-24 01:17:00,811 - Copied file: admin-settings.php
+2025-02-24 01:17:00,972 - Copied file: admin.php
+2025-02-24 01:17:00,999 - Copied file: cpt-onomies.php
+2025-02-24 01:17:01,044 - Copied file: cpt-onomy.php
+2025-02-24 01:17:01,055 - Copied file: admin-options.css
+2025-02-24 01:17:01,065 - Copied file: admin-post.css
+2025-02-24 01:17:01,089 - Copied file: gravity-forms-custom-post-types.php
+2025-02-24 01:17:01,092 - Copied file: add.png
+2025-02-24 01:17:01,098 - Copied file: attention.png
+2025-02-24 01:17:01,106 - Copied file: close_advanced.png
+2025-02-24 01:17:01,112 - Copied file: inactive.png
+2025-02-24 01:17:01,120 - Copied file: information.png
+2025-02-24 01:17:01,127 - Copied file: rating_star.png
+2025-02-24 01:17:01,135 - Copied file: twitter_bird.png
+2025-02-24 01:17:01,143 - Copied file: working.png
+2025-02-24 01:17:01,174 - Copied file: admin-edit.js
+2025-02-24 01:17:01,192 - Copied file: admin-options-validate.js
+2025-02-24 01:17:01,211 - Copied file: admin-options.js
+2025-02-24 01:17:01,236 - Copied file: admin-post.js
+2025-02-24 01:17:01,272 - Copied file: jquery.validate.min.js
+2025-02-24 01:17:01,309 - Copied file: manager.php
+2025-02-24 01:17:01,334 - Copied file: readme.txt
+2025-02-24 01:17:01,349 - Copied file: uninstall.php
+2025-02-24 01:17:01,498 - Copied file: widgets.php
+2025-02-24 01:17:01,538 - Copied file: edit-category-slug.php
+2025-02-24 01:17:01,548 - Copied file: readme.txt
+2025-02-24 01:17:01,554 - Merged and removed source folder: - Taxonomy
+2025-02-24 01:17:01,556 - Processing folder: - Text Management
+2025-02-24 01:17:01,557 - Renamed folder to: Text Management
+2025-02-24 01:17:01,566 - Processing folder: - Tools
+2025-02-24 01:17:01,572 - Target folder 'Tools' exists. Merging contents...
+2025-02-24 01:17:01,635 - Copied file: gravitypdf-download-pdf-button-plugin.php
+2025-02-24 01:17:01,645 - Copied file: readme.txt
+2025-02-24 01:17:01,647 - Merged and removed source folder: - Tools
+2025-02-24 01:17:01,648 - Processing folder: - Translation
+2025-02-24 01:17:01,649 - Target folder 'Translation' exists. Merging contents...
+2025-02-24 01:17:01,687 - Copied file: cclexiconlite.php
+2025-02-24 01:17:01,696 - Copied file: styles.css
+2025-02-24 01:17:01,707 - Copied file: styles.less
+2025-02-24 01:17:01,724 - Copied file: cclexicon.js
+2025-02-24 01:17:01,745 - Copied file: index.php
+2025-02-24 01:17:01,755 - Copied file: cc-lexicon-lite-fr_FR.mo
+2025-02-24 01:17:01,765 - Copied file: cc-lexicon-lite-fr_FR.po
+2025-02-24 01:17:01,774 - Copied file: readme.txt
+2025-02-24 01:17:01,778 - Merged and removed source folder: - Translation
+2025-02-24 01:17:01,783 - Processing folder: - URL Management
+2025-02-24 01:17:01,790 - Renamed folder to: URL Management
+2025-02-24 01:17:01,797 - Processing folder: - Utilities
+2025-02-24 01:17:01,805 - Target folder 'Utilities' exists. Merging contents...
+2025-02-24 01:17:01,823 - Copied file: new-meta-style-sheet.css
+2025-02-24 01:17:01,831 - Copied file: Hello-world-after.png
+2025-02-24 01:17:01,841 - Copied file: Hello-world-before.png
+2025-02-24 01:17:01,853 - Copied file: readme.txt
+2025-02-24 01:17:01,882 - Copied file: wp-meta-and-date-remover.php
+2025-02-24 01:17:01,883 - Merged and removed source folder: - Utilities
+2025-02-24 01:17:01,884 - Processing folder: - Workflow
+2025-02-24 01:17:01,886 - Renamed folder to: Workflow
+2025-02-24 01:17:01,887 - Processing folder: - Writing
+2025-02-24 01:17:01,893 - Target folder 'Writing' exists. Merging contents...
+2025-02-24 01:17:01,915 - Copied file: globals.php
+2025-02-24 01:17:01,923 - Copied file: index.html
+2025-02-24 01:17:02,044 - Copied file: projects.php
+2025-02-24 01:17:02,057 - Copied file: readme.txt
+2025-02-24 01:17:02,155 - Copied file: releases.php
+2025-02-24 01:17:02,181 - Copied file: scrape.php
+2025-02-24 01:17:02,231 - Copied file: settings.php
+2025-02-24 01:17:02,238 - Copied file: wp-fansub_page_manager.css
+2025-02-24 01:17:02,253 - Copied file: wp-fansub_page_manager.js
+2025-02-24 01:17:02,288 - Copied file: wp-fansub_page_manager.php
+2025-02-24 01:17:02,318 - Copied file: xdcc.php
+2025-02-24 01:17:02,319 - Merged and removed source folder: - Writing
+2025-02-24 01:17:02,327 - Processing folder: Anti-Spam
+2025-02-24 01:17:02,334 - Renamed folder to: AntiSpam
+2025-02-24 01:17:02,343 - Processing folder: Auto-publishing
+2025-02-24 01:17:02,349 - Renamed folder to: Autopublishing
+2025-02-24 01:17:02,355 - Processing folder: Auto-tag
+2025-02-24 01:17:02,362 - Renamed folder to: Autotag
+2025-02-24 01:17:02,367 - Processing folder: Based On The Provided Name, It Is Difficult To Determine The Exact Category Of The Wordpress Plugin 'Adapter-Post-Preview_1_1_1_1_1_1_1_1_1'. The Name Does Not Provide Any Clear
+2025-02-24 01:17:02,373 - Renamed folder to: Based On The Provided Name, It Is Difficult To Determine The Exact Category Of The Wordpress Plugin 'AdapterPostPreview_1_1_1_1_1_1_1_1_1'. The Name Does Not Provide Any Clear
+2025-02-24 01:17:02,384 - Processing folder: Buttons- Maker
+2025-02-24 01:17:02,390 - Renamed folder to: Buttons Maker
+2025-02-24 01:17:02,398 - Processing folder: Buttons- Widgets-
+2025-02-24 01:17:02,406 - Renamed folder to: Buttons Widgets
+2025-02-24 01:17:02,411 - Processing folder: Client-dash could be
+2025-02-24 01:17:02,416 - Renamed folder to: Clientdash could be
+2025-02-24 01:17:02,427 - Processing folder: Conveyour-wp is
+2025-02-24 01:17:02,432 - Renamed folder to: Conveyourwp is
+2025-02-24 01:17:02,441 - Processing folder: Cross-Posting
+2025-02-24 01:17:02,448 - Target folder 'CrossPosting' exists. Merging contents...
+2025-02-24 01:17:02,468 - Copied file: style.css
+2025-02-24 01:17:02,483 - Copied file: d3euronism-webfont.eot
+2025-02-24 01:17:02,495 - Copied file: d3euronism-webfont.svg
+2025-02-24 01:17:02,504 - Copied file: d3euronism-webfont.ttf
+2025-02-24 01:17:02,511 - Copied file: d3euronism-webfont.woff
+2025-02-24 01:17:02,529 - Copied file: genericons-regular-webfont.eot
+2025-02-24 01:17:02,540 - Copied file: genericons-regular-webfont.svg
+2025-02-24 01:17:02,549 - Copied file: genericons-regular-webfont.ttf
+2025-02-24 01:17:02,557 - Copied file: genericons-regular-webfont.woff
+2025-02-24 01:17:02,582 - Copied file: stylesheet.css
+2025-02-24 01:17:02,587 - Copied file: cabecera.jpg
+2025-02-24 01:17:02,620 - Copied file: crosspress.php
+2025-02-24 01:17:02,629 - Copied file: crosspress-es_ES.mo
+2025-02-24 01:17:02,640 - Copied file: crosspress-es_ES.po
+2025-02-24 01:17:02,714 - Copied file: cuadro-informacion.php
+2025-02-24 01:17:02,932 - Copied file: formulario.php
+2025-02-24 01:17:02,944 - Copied file: license.txt
+2025-02-24 01:17:02,956 - Copied file: readme.txt
+2025-02-24 01:17:02,962 - Copied file: screenshot-1.jpg
+2025-02-24 01:17:02,970 - Merged and removed source folder: Cross-Posting
+2025-02-24 01:17:02,974 - Processing folder: Custom-post-types
+2025-02-24 01:17:02,982 - Renamed folder to: Customposttypes
+2025-02-24 01:17:02,992 - Processing folder: E-commerce
+2025-02-24 01:17:02,996 - Renamed folder to: Ecommerce
+2025-02-24 01:17:03,003 - Processing folder: E-Learning
+2025-02-24 01:17:03,010 - Target folder 'ELearning' exists. Merging contents...
+2025-02-24 01:17:03,052 - Copied file: class_members.inc.php
+2025-02-24 01:17:03,061 - Copied file: default.pot
+2025-02-24 01:17:03,073 - Copied file: readme.txt
+2025-02-24 01:17:03,098 - Copied file: wp-courseware-member-mouse.php
+2025-02-24 01:17:03,132 - Copied file: class_members.inc.php
+2025-02-24 01:17:03,142 - Copied file: default.pot
+2025-02-24 01:17:03,153 - Copied file: readme.txt
+2025-02-24 01:17:03,184 - Copied file: wp-courseware-memberpress.php
+2025-02-24 01:17:03,189 - Merged and removed source folder: E-Learning
+2025-02-24 01:17:03,193 - Processing folder: Editor-Enhancements
+2025-02-24 01:17:03,194 - Renamed folder to: EditorEnhancements
+2025-02-24 01:17:03,198 - Processing folder: ePaperFlip-Publisher
+2025-02-24 01:17:03,204 - Renamed folder to: ePaperFlipPublisher
+2025-02-24 01:17:03,208 - Processing folder: Framework-Theme-Builder
+2025-02-24 01:17:03,212 - Renamed folder to: FrameworkThemeBuilder
+2025-02-24 01:17:03,221 - Processing folder: Last-Category
+2025-02-24 01:17:03,222 - Renamed folder to: LastCategory
+2025-02-24 01:17:03,224 - Processing folder: Law-Firm-Crm
+2025-02-24 01:17:03,226 - Renamed folder to: LawFirmCrm
+2025-02-24 01:17:03,227 - Processing folder: Lead-Forensics
+2025-02-24 01:17:03,228 - Renamed folder to: LeadForensics
+2025-02-24 01:17:03,234 - Processing folder: Motivational-Quote
+2025-02-24 01:17:03,238 - Renamed folder to: MotivationalQuote
+2025-02-24 01:17:03,240 - Processing folder: Multi-vendor Marketplace
+2025-02-24 01:17:03,242 - Renamed folder to: Multivendor Marketplace
+2025-02-24 01:17:03,243 - Processing folder: Navigation-Related Plugins
+2025-02-24 01:17:03,244 - Renamed folder to: NavigationRelated Plugins
+2025-02-24 01:17:03,245 - Processing folder: Note-Taking
+2025-02-24 01:17:03,248 - Renamed folder to: NoteTaking
+2025-02-24 01:17:03,252 - Processing folder: Read-more
+2025-02-24 01:17:03,257 - Renamed folder to: Readmore
+2025-02-24 01:17:03,261 - Processing folder: Resume-extended is closest
+2025-02-24 01:17:03,266 - Renamed folder to: Resumeextended is closest
+2025-02-24 01:17:03,268 - Processing folder: Ride-Sharing
+2025-02-24 01:17:03,270 - Renamed folder to: RideSharing
+2025-02-24 01:17:03,276 - Processing folder: Tags-autolink
+2025-02-24 01:17:03,277 - Renamed folder to: Tagsautolink
+2025-02-24 01:17:03,280 - Processing folder: Taxonomy-picker falls under
+2025-02-24 01:17:03,282 - Renamed folder to: Taxonomypicker falls under
+2025-02-24 01:17:03,282 - Processing folder: Technology-news is a
+2025-02-24 01:17:03,284 - Renamed folder to: Technologynews is a
+2025-02-24 01:17:03,285 - Processing folder: Terms-Descriptions is
+2025-02-24 01:17:03,288 - Renamed folder to: TermsDescriptions is
+2025-02-24 01:17:03,289 - Processing folder: Timeline-pro seems to
+2025-02-24 01:17:03,291 - Renamed folder to: Timelinepro seems to
+2025-02-24 01:17:03,294 - Processing folder: Xml-Rpc
+2025-02-24 01:17:03,300 - Renamed folder to: XmlRpc
+2025-02-24 01:17:03,301 - Processing completed successfully!
