@@ -1,0 +1,11 @@
+{
+    "selected_apis": {
+        "gemini_1": true,
+        "gemini_2": true,
+        "gemini_3": true,
+        "gemini_4": true,
+        "gemini_5": true,
+        "anthropic": true,
+        "cohere": true
+    }
+}

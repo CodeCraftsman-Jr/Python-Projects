@@ -1,0 +1,4 @@
+> pip install googlesearch-python openai cohere anthropic
+
+# # Cohere Configuration
+# COHERE_API_KEY = "tyer8mBGsV5M1eusrIrdGPHdn7Osz7LrB9n1H2KN"  # Get from https://dashboard.cohere.ai/api-keys

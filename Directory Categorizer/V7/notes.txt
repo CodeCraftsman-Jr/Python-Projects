@@ -1,0 +1,5 @@
+> pip install googlesearch-python openai cohere anthropic
+
+https://dashboard.cohere.ai/api-keys cohere api key 1
+
+cohere api key 2 - 
