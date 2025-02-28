@@ -1,0 +1,18 @@
+@echo off
+set "source=C:\Users\evasa\Documents\GitHub\MyPlugins"
+set "destination=C:\Users\evasa\Documents\GitHub\Empty"
+set "logfile=%destination%\log.txt"
+
+echo ==== Empty Folder Move Log - %DATE% %TIME% ==== >> "%logfile%"
+echo ==== Empty Folder Move Log - %DATE% %TIME% ====
+
+for /f "delims=" %%F in ('dir "%source%" /ad /s /b ^| sort /r') do (
+    if not exist "%%F\*" (
+        echo Moving: "%%F"
+        echo Moving: "%%F" >> "%logfile%"
+        move "%%F" "%destination%" >> "%logfile%" 2>&1
+    )
+)
+
+echo ==== Process Completed ==== >> "%logfile%"
+echo ==== Process Completed ====
